@@ -8,12 +8,14 @@
 - [Minecraft Server on Docker](https://docker-minecraft-server.readthedocs.io/en/latest/) — Контейнеризированный сервер Minecraft.
 - [Podman](https://github.com/containers/podman) — Альтернатива Docker с поддержкой rootless-контейнеров.
 - [Portainer](https://github.com/portainer/portainer) — Удобный веб-интерфейс для управления контейнерами Docker.
+- [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) — Почтовый сервер.
 - ~~[Хуёкер](https://huecker.io/) — Прокси-сервис для доступа к Docker Hub при ограничениях.~~
 
 ## Сети, туннелирование и трафик
 - [Bore](https://github.com/ekzhang/bore) — TCP-туннель на Rust для обхода NAT и доступа к локальным портам.
 - [Cloudflared](https://github.com/cloudflare/cloudflared) — Клиент для туннелирования через Cloudflare Tunnel.
 - [frp](https://github.com/fatedier/frp) — Инструмент туннелирования, аналог Ngrok, для проброса локальных сервисов.
+- [Godoxy](https://github.com/yusing/godoxy) — Лёгкий, простой и производительный обратный прокси-сервер с веб-интерфейсом.
 - [SSHFS](https://github.com/libfuse/sshfs) — Монтирование удалённых файловых систем через SFTP.
 - [Tailscale](https://tailscale.com/) — VPN на базе WireGuard для создания защищённых сетей.
 - ~~[TextBee](https://github.com/vernu/textbee) — SMS-шлюз с открытым исходным кодом.~~
@@ -44,6 +46,7 @@
 ## Управление данными и знаниями
 - ~~[Lazywarden](https://github.com/querylab/lazywarden) — Утилита для резервного копирования данных Bitwarden.~~
 - [Linkwarden](https://github.com/linkwarden/linkwarden) — Открытый менеджер закладок.
+- [Memos](https://github.com/usememos/memos) — Самостоятельное решение для ведения заметок.
 - [Obsidian](https://obsidian.md/) — Markdown-редактор с графом связей для заметок.
 - [PrivateGPT](https://github.com/zylon-ai/private-gpt) — Локальная нейросеть для анализа документов с сохранением конфиденциальности.
 - [Trilium Notes](https://github.com/zadam/trilium) — Иерархическая система заметок с открытым кодом.
@@ -64,6 +67,7 @@
 - [Qwen2.5-Coder-32B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct) — Модель ИИ для поддержки разработчиков.
 - [Robyn](https://github.com/sparckles/Robyn) — Асинхронный веб-фреймворк на Python и Rust.
 - [Ruff](https://github.com/astral-sh/ruff) — Быстрый линтер и форматировщик Python-кода на Rust.
+- [RustScan](https://github.com/rustscan/rustscan) — Современный сканер портов.
 - [Windsurf](https://codeium.com/windsurf) — ИИ-помощник для программирования.
 
 ## Графика и интерфейсы
@@ -158,6 +162,7 @@
 - [You-Get](https://github.com/soimort/you-get) — Утилита для загрузки видео, аудио и изображений с сайтов.
 
 ## Прочее
+- [Arq](https://github.com/python-arq/arq) — Очередь задачь и RPC на Python.
 - ~~[Authenticator](https://chromewebstore.google.com/detail/%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80/bhghoamapcdpbohphigoooaddinpkbai) — Хранение 2FA-кодов Google в браузере.~~
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) — Подборка полезных консольных сервисов.
 - [awesome-free-apps](https://github.com/Axorax/awesome-free-apps) — Список бесплатных приложений для разных платформ.
@@ -165,6 +170,7 @@
 - [doomcaptcha](https://vivirenremoto.github.io/doomcaptcha/) — Интерактивная CAPTCHA в стиле Doom.
 - [Dragonfly](https://www.dragonflydb.io/) — Высокопроизводительный аналог Redis.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) — Виртуальная доска для создания диаграмм и набросков.
+- [Fastapi-guard](https://github.com/rennf93/fastapi-guard) — Библиотека безопасности для FastAPI.
 - [Gogs](https://github.com/gogs/gogs) — Лёгкий и стабильный Git-сервис.
 - [GoSearch](http://github.com/ibnaleem/gosearch) — Инструмент для поиска цифрового следа человека.
 - [Home Assistant](https://www.home-assistant.io/) — Платформа для умного дома с открытым кодом.
@@ -178,6 +184,7 @@
 - [UUP](https://uup.rg-adguard.net/) — Загрузка официальных ISO-образов Windows.
 - [WebBrowserTools](https://webbrowsertools.com/) — Набор утилит для работы в браузере.
 - ~~[YouTube Redux](https://chromewebstore.google.com/detail/youtube-redux/mdgdgieddpndgjlmeblhjgljejejkikf) — Расширение для возврата классического интерфейса YouTube.~~
+- [WebSSH](https://github.com/huashengdun/webssh) — Веб-приложение клиент SSH.
 
 ## Обучение и ресурсы
 - [400 вопросов с ответами для Python-разработчиков](https://github.com/DEBAGanov/interview_questions/blob/main/400%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D1%81%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B0%D0%BC%D0%B8%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%20%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.md) — Подготовка к собеседованиям.
