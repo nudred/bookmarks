@@ -154,16 +154,16 @@
 - [Cat-Catch](https://github.com/xifangczy/cat-catch) — Расширение для перехвата ресурсов веб-страниц.
 - [Cobalt.Tools](https://cobalt.tools/) — Универсальный инструмент для скачивания видео.
 - [gallery-dl](https://github.com/mikf/gallery-dl) — Массовое скачивание изображений и видео с сайтов.
-- [FireShot](https://chromewebstore.google.com/detail/fireshot-%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D0%BCcbpblocgmgfnpjjppndjkmgjaogfceg) — Сохранение веб-страниц в PDF, JPG или PNG.
+- [FireShot](https://chromewebstore.google.com/detail/mcbpblocgmgfnpjjppndjkmgjaogfceg) — Сохранение веб-страниц в PDF, JPG или PNG.
 - [qBitTorrent](https://www.qbittorrent.org/download) — Лёгкий торрент-клиент с открытым кодом.
 - [Rezi](https://rezi.one/) — Поисковик по проверенным торрентам.
-- [Save Image As PNG](https://chromewebstore.google.com/detail/save-image-as-png/nkokmeaibnajheohncaamjggkanfbphi) — Конвертация изображений в PNG прямо в браузере.
+- [Save Image As PNG](https://chromewebstore.google.com/detail/nkokmeaibnajheohncaamjggkanfbphi) — Конвертация изображений в PNG прямо в браузере.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Улучшенная версия youtube-dl для загрузки видео.
 - [You-Get](https://github.com/soimort/you-get) — Утилита для загрузки видео, аудио и изображений с сайтов.
 
 ## Прочее
 - [Arq](https://github.com/python-arq/arq) — Очередь задачь и RPC на Python.
-- ~~[Authenticator](https://chromewebstore.google.com/detail/%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80/bhghoamapcdpbohphigoooaddinpkbai) — Хранение 2FA-кодов Google в браузере.~~
+- ~~[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai) — Хранение 2FA-кодов Google в браузере.~~
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) — Подборка полезных консольных сервисов.
 - [awesome-free-apps](https://github.com/Axorax/awesome-free-apps) — Список бесплатных приложений для разных платформ.
 - [BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) — Расширение для фильтрации SEO-спама и ИИ-контента ([блэклист](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt)).
@@ -183,7 +183,7 @@
 - [Ritmoteka](https://ritmoteka.ru/) — Поиск музыки по ритму через настукивание.
 - [UUP](https://uup.rg-adguard.net/) — Загрузка официальных ISO-образов Windows.
 - [WebBrowserTools](https://webbrowsertools.com/) — Набор утилит для работы в браузере.
-- ~~[YouTube Redux](https://chromewebstore.google.com/detail/youtube-redux/mdgdgieddpndgjlmeblhjgljejejkikf) — Расширение для возврата классического интерфейса YouTube.~~
+- ~~[YouTube Redux](https://chromewebstore.google.com/detail/mdgdgieddpndgjlmeblhjgljejejkikf) — Расширение для возврата классического интерфейса YouTube.~~
 - [WebSSH](https://github.com/huashengdun/webssh) — Веб-приложение клиент SSH.
 
 ## Обучение и ресурсы
