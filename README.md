@@ -177,7 +177,7 @@
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) — Локальный API для машинного перевода без внешних зависимостей.
 - [mCaptcha](https://github.com/mCaptcha/mCaptcha) — CAPTCHA с акцентом на конфиденциальность.
 - [Nix](https://nixos.org/) — Пакетный менеджер для воспроизводимых сборок.
-- [OpenAlternative](https://github.com/piotrkulpinski/openalternative) — Альтернативы проприетарному ПО.
+- [OpenAlternative](https://openalternative.co) — Альтернативы проприетарному ПО.
 - [Rallyup](https://github.com/darwindarak/rallyup) — Планировщик Wake-On-LAN и управление зависимостями для малых сетей.
 - [Revanced Extended](https://github.com/NoName-exe/revanced-extended/releases) — Модифицированная версия YouTube с доп. функциями.
 - [Ritmoteka](https://ritmoteka.ru/) — Поиск музыки по ритму через настукивание.
