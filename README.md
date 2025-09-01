@@ -1,6 +1,7 @@
 # Закладки
 
 ## Управление контейнерами и серверами
+- [Black Candy](https://github.com/blackcandy-org/blackcandy) — Сервер потоковой передачи музыки, персональный музыкальный центр.
 - [Copyparty](https://github.com/9001/copyparty) — Превращает практически любые устройства в файловые серверы.
 - [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) — Готовый Телеграм Бот для работы с ChatGPT.
 - [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Эмулятор Android, функционирующий в Docker.
@@ -8,13 +9,17 @@
 - ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода блокировки Docker Hub в России.~~
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
 - [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
+- [Gokapi](https://github.com/Forceu/Gokapi) — Локальный файлообменный сервер с автоматическим удалением и поддержкой шифрования.
 - [InvenTree](https://github.com/inventree/InvenTree) — Система управления запасами.
 - [isd](https://github.com/isd-project/isd) — Новое слово в управлении systemd.
 - [K3s](https://github.com/k3s-io/k3s) — Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
+- [MediaMTX](https://github.com/bluenviron/mediamtx) — Готовый медиасервер и медиапрокси.
+- [MicroBin](https://github.com/szabodanika/microbin) — Сервер буффера обмена.
 - [Minecraft Server on Docker](https://docker-minecraft-server.readthedocs.io/en/latest/) — Контейнеризированный сервер Minecraft.
 - [Nimbus](https://github.com/nimbusdotstorage/Nimbus) — Альтернатива Google Drive.
 - [Podman](https://github.com/containers/podman) — Альтернатива Docker с поддержкой rootless-контейнеров.
 - [Portainer](https://github.com/portainer/portainer) — Удобный веб-интерфейс для управления контейнерами Docker.
+- [RustFS](https://github.com/rustfs/rustfs) — Высокопроизводительное распределённое объектное хранилище.
 - [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) — Почтовый сервер.
 - [Supercronic](https://github.com/aptible/supercronic) — Планировщик заданий для контейнеров.
 - [Termux udocker](https://github.com/George-Seven/Termux-Udocker) — Образы Docker в Termux с помощью Udocker.
@@ -46,11 +51,13 @@
 ## Безопасность и конфиденциальность
 - [Baïkal](https://sabre.io/baikal) - CardDAV+CalDAV сервер.
 - [Beszel](https://github.com/henrygd/beszel) — Облегчённая платформа для мониторинга серверов.
+- [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) — Реализация концепции, позволяющей записывать и воспроизводить звук с Bluetooth-устройства без ведома законного пользователя.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) — Коллаборативный файрвол для защиты от атак.
 - [Clip Vault](https://github.com/densumesh/clip-vault) — Безопасный буфер обмена.
 - [Eraser](https://eraser.heidi.ie/download/) — Утилита для безвозвратного удаления файлов.
 - [Fort](https://github.com/tnodir/fort) — Простой файрвол для Windows 7 и выше.
 - [HellPot](https://github.com/yunginnanet/HellPot) — HTTP-приманка для ботов с бесконечным циклом ответа.
+- [Honeypots Awesome](https://github.com/paralax/awesome-honeypots) — Тщательно подобранный список отличных ловушек.
 - [Kippo](https://github.com/desaster/kippo) — SSH-ловушка среднего уровня взаимодействия.
 - [John the Ripper](https://github.com/openwall/john) - Инструмент для восстановления паролей.
 - [Marzban](https://github.com/Gozargah/Marzban) — Сервер для обхода интернет-цензуры.
@@ -80,6 +87,7 @@
 - [Bun](https://bun.sh/) — Быстрый JavaScript-рантайм, альтернатива Node.js.
 - [CloudReve](https://github.com/cloudreve/Cloudreve) — Система управления файлами.
 - [DevToys](https://github.com/DevToys-app/DevToys) — Набор утилит для упрощения разработки.
+- [Depyler](https://github.com/paiml/depyler) — Энергоэффективный транспайлер Python-to-Rust с возможностью прогрессивной верификации.
 - [Exodus](https://github.com/intoli/exodus) — Инструмент для переноса бинарных файлов Linux между системами, которые не поддерживают необходимые для работы пакеты.
 - [Faker](https://github.com/faker-ruby/faker) — Генератор тестовых данных (имена, адреса и др.).
 - [ggwave](https://github.com/ggerganov/ggwave) — Кодирует и декодирует информацию в звук.
@@ -98,6 +106,7 @@
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) — Инструмент для тестирования HTTP-запросов (HTTP/2, HTTP/3).
 - [PostgREST](https://github.com/PostgREST/postgrest) — Автоматический REST API из базы PostgreSQL.
 - [Posting](https://github.com/darrenburns/posting) — TUI-клиент для HTTP-запросов, альтернатива Postman.
+- [PyApp](https://github.com/ofek/pyapp) — Упаковка Python-программ в самодостаточные исполняемые файлы.
 - [Python-kasa](https://github.com/python-kasa/python-kasa) — Библиотека Python для управления устройствами умного дома TPLink.
 - ~~[Py2many](https://github.com/py2many/py2many) — Транслятор Python-кода в другие языки (Rust, Go и др.).~~
 - [Pwnat](https://github.com/samyk/pwnat) — Инструмент для пробивания дыр в брандмауэрах/NAT.
@@ -132,12 +141,12 @@
 
 ## Работа с файлами и медиа
 - [BTFS](https://github.com/johang/btfs) — Монтирование торрентов как файловой системы.
-- [Black Candy](https://github.com/blackcandy-org/blackcandy) — Сервер потоковой передачи музыки, персональный музыкальный центр.
 - [DDColor](https://github.com/piddnad/DDColor) — Раскраска чёрно-белых изображений с фотореализмом.
 - [DeepSound](https://github.com/oneplus-x/DeepSound-2.0) — Скрытие данных в аудиофайлах (стеганография).
 - [Everything](https://www.voidtools.com/ru-ru/) — Быстрый поиск файлов на ПК.
 - [FastStone Image Viewer](https://www.faststone.org/FSIVDownload.htm) — Просмотр и редактирование изображений с широким функционалом.
 - [File Converter](https://github.com/Tichau/FileConverter/releases) — GUI для массового перекодирования с ffmpeg.
+- [fzfm](https://github.com/ashish0kumar/fzfm) — Быстрый файловый менеджер для терминала.
 - [HandBrake](https://handbrake.fr/) — Открытый конвертер видео с гибкими настройками.
 - [img-RAR](https://www.softportal.com/get-19883-img-rar.html) — Стеганография для изображений.
 - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) — Набор кодеков для аудио и видео.
@@ -149,6 +158,7 @@
 - [Rotato](https://tools.rotato.app/compress) — Сжатие видео на 90% с минимальной потерей качества.
 - [Shotcut](https://shotcut.org/) — Бесплатный видеоредактор с открытым кодом.
 - [Tablecruncher](https://github.com/Tablecruncher/tablecruncher) — Быстрый редактор CSV-файлов, созданный для удобной работы с большими файлами.
+- [Tabiew](https://github.com/shshemi/tabiew) — TUI-приложение для работы с табличными данными.
 - [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui) — Удаление вокала из аудиофайлов.
 - [Vectorizer](https://vectorizer.ai/) — Преобразование растровых изображений в векторные.
 - [WatermarkRemover](https://www.watermarkremover.io/ru) — Удаление водяных знаков с изображений.
@@ -163,6 +173,7 @@
 - [exo](https://github.com/exo-explore/exo) — Создание ИИ-кластеров из любых устройств.
 - [frigate](https://github.com/blakeblackshear/frigate) — NVR с поддержкой ИИ для видеонаблюдения.
 - [Hugging Face Transformers](https://github.com/huggingface/transformers) — Библиотека для работы с моделями ИИ.
+- [InfiniteYou-FLUX](https://huggingface.co/spaces/ByteDance/InfiniteYou-FLUX) — Дипфейки без ограничений.
 - [Piper](https://github.com/rhasspy/piper) — Локальная система текст-в-речь для Raspberry Pi.
 - [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) — Библиотека для преобразования речи в текст с минимальной задержкой.
 - [Shotcut](https://shotcut.org/) — Бесплатный видеоредактор с открытым кодом.
@@ -184,6 +195,8 @@
 - [BleachBit](https://www.bleachbit.org/) — Очистка системы от ненужных файлов и кэша.
 - [Bongo Cat Wayland Overlay](https://github.com/saatvik333/wayland-bongocat) — Котик играет на бонго в Wayland.
 - ~~[DesktopOK](https://www.softportal.com/software-21897-desktopok.html) — Сохранение и восстановление расположения значков на рабочем столе.~~
+- [Discordo](https://github.com/ayn2op/discordo) — Легковесный и безопасный клиент Discord для терминала.
+- [Drinfo](https://github.com/Lennart1978/drinfo) — Инструмент CLI для получения информации о физических и сетевых дисках Linux.
 - [howdy](https://github.com/boltgolt/howdy) — Аналог Windows Hello для Linux.
 - [Hellpaper](https://github.com/danihek/hellpaper) — Селектор обоев на Linux.
 - [His](https://github.com/terroo/his) — Утилита для просмотра истории команд с иконками и цветовыми обозначениями.
@@ -195,6 +208,7 @@
 - [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) — Набор утилит от Microsoft для улучшения Windows.
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
 - [SelenUI](https://github.com/eythaann/Seelen-UI) — Кастомизация интерфейса Windows.
+- [Terminal Background Creator](https://github.com/DaarcyDev/terminal-bg) — Терминал как прозрачный Live Wallpaper.
 - [Timr-Tui-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
 - [Ventoy](https://www.ventoy.net/) — Создание мультизагрузочных USB-накопителей.
 - [Vibed Linux Rust Bitchat Client](https://github.com/spr-networks/bitchat-plugin) — Клиент Bitchat для Linux.
@@ -240,10 +254,12 @@
 
 ## Обучение и ресурсы
 - [400 вопросов с ответами для Python-разработчиков](https://github.com/DEBAGanov/interview_questions/blob/main/400%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D1%81%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B0%D0%BC%D0%B8%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%20%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.md) — Подготовка к собеседованиям.
+- [beatsync](https://www.beatsync.gg/) — Веб-приложение с открытым исходным кодом, которое предлагает высокоточное синхронизированное воспроизведение аудио на нескольких устройствах одновременно через браузер.
 - [CodeWars](https://www.codewars.com) - Обучение и практика в программировании в формате игры.
 - [Сomprehensive-rust](https://github.com/google/comprehensive-rust) — это курс Rust, используемый командой разработчиков Android в Google.
 - [CS50](https://cs50.harvard.edu/x/2025/) — Бесплатный курс Гарварда по программированию.
 - [LeetCode](https://leetcode.com/) — Платформа с задачами для подготовки к собеседованиям.
+- [Pngimg](https://pngimg.com) — Огромная база, где собраны тысячи готовых PNG-файлов.
 - [S3-хранилище](https://youtube.com/watch?v=BecRFTzjXA8) — Обзор работы с объектным хранилищем на бэкенде.
 - [VIM Master](https://github.com/renzorlive/vimmaster) — Браузерная игра, предназначенная для обучения основным командам Vim.
 - ~~[Красивый Parallax](https://youtu.be/tk3ivPgOwpc) — Туториал по созданию эффекта параллакса.~~
