@@ -13,10 +13,10 @@
 - [Gokapi](https://github.com/Forceu/Gokapi) — Локальный файлообменный сервер с автоматическим удалением и поддержкой шифрования.
 - [Home Assistant](https://www.home-assistant.io/) — Платформа для умного дома с открытым кодом.
 - [InvenTree](https://github.com/inventree/InvenTree) — Система управления запасами.
-- [isd](https://github.com/isd-project/isd) — Новое слово в управлении systemd.
+- [isd](https://github.com/isd-project/isd) — Утилита для удобного управления сервисами systemd.
 - [K3s](https://github.com/k3s-io/k3s) — Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
 - [MediaMTX](https://github.com/bluenviron/mediamtx) — Готовый медиасервер и медиапрокси.
-- [MicroBin](https://github.com/szabodanika/microbin) — Сервер буффера обмена.
+- [MicroBin](https://github.com/szabodanika/microbin) — Самостоятельный pastebin-сервер с минималистичным интерфейсом.
 - [Minecraft Server on Docker](https://docker-minecraft-server.readthedocs.io/en/latest/) — Контейнеризированный сервер Minecraft.
 - [Nimbus](https://github.com/nimbusdotstorage/Nimbus) — Альтернатива Google Drive.
 - [PasteBurn](https://github.com/pasteburn/pasteburn) — Зашифрованный аналог PasteBin для безопасного обмена данными.
@@ -34,7 +34,7 @@
 - [Doggo](https://github.com/mr-karan/doggo) — Современный DNS-клиент командной строки (как dig).
 - [frp](https://github.com/fatedier/frp) — Инструмент туннелирования, аналог Ngrok, для проброса локальных сервисов.
 - [Godoxy](https://github.com/yusing/godoxy) — Лёгкий, простой и производительный обратный прокси-сервер с веб-интерфейсом.
-- [IPSpot](https://github.com/openscilab/ipspot) — Библиотека на Python, для получения текущего IP-адреса и информации о местоположении.
+- [IPSpot](https://github.com/openscilab/ipspot) — Библиотека Python для получения IP-адреса и геолокации.
 - [Pangolin](https://github.com/fosrl/pangolin) — Обратный прокси-сервер с идентификацией и контролем доступа.
 - [Somo](https://github.com/theopfr/somo) — Удобная альтернатива netstat.
 - [SSHFS](https://github.com/libfuse/sshfs) — Монтирование удалённых файловых систем через SFTP.
@@ -44,7 +44,7 @@
 ## Мониторинг и уведомления
 - [Beszel](https://github.com/henrygd/beszel) — Облегчённая платформа для мониторинга серверов.
 - [EaseProbe](https://github.com/megaease/easeprobe) — Лёгкий инструмент для проверки состояния микросервисов.
-- [Deckhouse Prom++ ](https://github.com/deckhouse/prompp/)— Высокопроизводительная версия Prometheus, разработанная для значительного сокращения потребления памяти.
+- [Deckhouse Prom++ ](https://github.com/deckhouse/prompp/)— Форк Prometheus с оптимизацией памяти.
 - [Grafana Tempo](https://grafana.com/oss/tempo/) — Система трассировки для микросервисов.
 - [ntfy.sh](https://ntfy.sh/) — Сервис для отправки push-уведомлений через HTTP-запросы.
 - [Script Exporter](https://github.com/ricoberger/script_exporter) — Prometheus экспортер, который выполняет скрипты и собирает метрики из выходных данных или статуса завершения.
@@ -88,7 +88,7 @@
 
 ## Разработка и тестирование
 - [AirRemote](https://github.com/jugeekuz/AirRemote-Frontend) — Модернизация устаревших устройств с дистанционным управлением в IoT.
-- [Arq](https://github.com/python-arq/arq) — Очередь задачь и RPC на Python.
+- [Arq](https://github.com/python-arq/arq) — Очередь задач и RPC на Python.
 - [Astro](https://astro.build/) — Фреймворк для создания быстрых статичных сайтов.
 - [Bun](https://bun.sh/) — Быстрый JavaScript-рантайм, альтернатива Node.js.
 - [DevToys](https://github.com/DevToys-app/DevToys) — Набор утилит для упрощения разработки.
@@ -99,8 +99,8 @@
 - [Gitnuro](https://github.com/JetpackDuba/Gitnuro) — Мультиплатформенный Git-клиент.
 - [Gogs](https://github.com/gogs/gogs) — Лёгкий и стабильный Git-сервис.
 - [Hanko](https://github.com/teamhanko/hanko) — Решение для аутентификации и управления пользователями.
-- [Jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — Приложение для визуализации различных форматы данных (JSON, YAML, XML, CSV и другие) в интерактивные графики.
-- [Live Local Wi-Fi Sensing ](https://github.com/MaliosDark/wifi-3d-fusion)— Инновационная система, использующая Wi-Fi для обнаружения движения и 3D визуализации в реальном времени.
+- [Jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — Приложение для визуализации различных форматов данных (JSON, YAML, XML, CSV и другие) в интерактивные графики.
+- [Live Local Wi-Fi Sensing ](https://github.com/MaliosDark/wifi-3d-fusion)— Система, использующая Wi-Fi для отслеживания движения и 3D-визуализации в реальном времени.
 - [NiceGUI](https://nicegui.io/) — Фреймворк для создания веб-интерфейсов на Python.
 - [OHA](https://github.com/hatoo/oha) — Программа, которая отправляет запрос в веб-приложение и отображает данные в реальном времени.
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) — Шлюз для MQTT.
@@ -153,7 +153,7 @@
 - [fzfm](https://github.com/ashish0kumar/fzfm) — Быстрый файловый менеджер для терминала.
 - [HandBrake](https://handbrake.fr/) — Открытый конвертер видео с гибкими настройками.
 - [img-RAR](https://www.softportal.com/get-19883-img-rar.html) — Стеганография для изображений.
-- [Klangio](https://klang.io/) — Преобразование музыку в нотные записи, табулатуры, MIDI и MusicXML форматы.
+- [Klangio](https://klang.io/) — Преобразование музыки в ноты, табулатуры, MIDI и MusicXML.
 - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) — Набор кодеков для аудио и видео.
 - [Kadinsky](https://github.com/ai-forever/Kandinsky-2) — Генератор изображений от Sber.
 - [MagicQuill](https://github.com/magic-quill/MagicQuill) — Открытый аналог Photoshop.
@@ -213,9 +213,9 @@
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
 - [SelenUI](https://github.com/eythaann/Seelen-UI) — Кастомизация интерфейса Windows.
 - [Terminal Background Creator](https://github.com/DaarcyDev/terminal-bg) — Терминал как прозрачный Live Wallpaper.
-- [Timr-Tui-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
+- [Timr-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
 - [Ventoy](https://www.ventoy.net/) — Создание мультизагрузочных USB-накопителей.
-- [Vibed Linux Rust Bitchat Client](https://github.com/spr-networks/bitchat-plugin) — Клиент Bitchat для Linux.
+- [Vibed Linux Rust Bitchat Client](https://github.com/spr-networks/bitchat-plugin) — Клиент Bitchat для Linux (Rust-плагин).
 - [X-Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) — Настройка кнопок мыши для разных приложений.
 
 ## Веб и загрузка контента
