@@ -1,11 +1,14 @@
 # Закладки
 
 ## Управление контейнерами и серверами
+- [Copyparty](https://github.com/9001/copyparty) — Превращает практически любые устройства в файловые серверы.
+- [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) — Готовый Телеграм Бот для работы с ChatGPT.
 - [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Эмулятор Android, функционирующий в Docker.
 - [Docker-1C-Server](https://github.com/alexanderfefelov/docker-1c-server) — Готовый контейнер Docker с сервером 1С.
 - ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода блокировки Docker Hub в России.~~
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
 - [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
+- [InvenTree](https://github.com/inventree/InvenTree) — Система управления запасами.
 - [isd](https://github.com/isd-project/isd) — Новое слово в управлении systemd.
 - [K3s](https://github.com/k3s-io/k3s) — Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
 - [Minecraft Server on Docker](https://docker-minecraft-server.readthedocs.io/en/latest/) — Контейнеризированный сервер Minecraft.
@@ -14,6 +17,7 @@
 - [Portainer](https://github.com/portainer/portainer) — Удобный веб-интерфейс для управления контейнерами Docker.
 - [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) — Почтовый сервер.
 - [Supercronic](https://github.com/aptible/supercronic) — Планировщик заданий для контейнеров.
+- [Termux udocker](https://github.com/George-Seven/Termux-Udocker) — Образы Docker в Termux с помощью Udocker.
 - ~~[Хуёкер](https://huecker.io/) — Прокси-сервис для доступа к Docker Hub при ограничениях.~~
 
 ## Сети, туннелирование и трафик
@@ -54,6 +58,7 @@
 - [Pi.Alert](https://github.com/leiweibau/Pi.Alert) — Сканер сети с уведомлениями о новых устройствах.
 - [Portmaster](https://github.com/safing/portmaster) — Брандмауэр приложений.
 - [privacy-settings](https://github.com/StellarSand/privacy-settings) — Руководство по настройке безопасности и конфиденциальности.
+- [Raspirus](https://github.com/Raspirus/Raspirus) — Лёгкий сканер вредоносного ПО на основе правил.
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) — Поиск секретов в коде и репозиториях.
 - [VaultWarden](https://github.com/dani-garcia/vaultwarden) — Локальный менеджер паролей с открытым кодом.
 - ~~[Wifiphisher](https://github.com/wifiphisher/wifiphisher) — Python-утилита для анализа и перехвата Wi-Fi паролей.~~
@@ -84,6 +89,7 @@
 - [Jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — Приложение для визуализации различных форматы данных (JSON, YAML, XML, CSV и другие) в интерактивные графики.
 - [Klangio](https://klang.io/) — Преобразование музыку в нотные записи, табулатуры, MIDI и MusicXML форматы.  
 - [LaZagne](https://github.com/AlessandroZ/LaZagne) — Извлечение множества паролей, хранящихся на локальном компьютере.
+- [Live Local Wi-Fi Sensing ](https://github.com/MaliosDark/wifi-3d-fusion)— Инновационная система, использующая Wi-Fi для обнаружения движения и 3D визуализации в реальном времени.
 - [NiceGUI](https://nicegui.io/) — Фреймворк для создания веб-интерфейсов на Python.
 - [OHA](https://github.com/hatoo/oha) — Программа, которая отправляет запрос в веб-приложение и отображает данные в реальном времени.
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) — Шлюз для MQTT.
@@ -99,6 +105,7 @@
 - [Robyn](https://github.com/sparckles/Robyn) — Асинхронный веб-фреймворк на Python и Rust.
 - [Ruff](https://github.com/astral-sh/ruff) — Быстрый линтер и форматировщик Python-кода на Rust.
 - [RustScan](https://github.com/rustscan/rustscan) — Современный сканер портов.
+- [Walrus](https://github.com/coleifer/walrus) — Упрощает работу с Redis на Python.
 - [Windsurf](https://codeium.com/windsurf) — ИИ-помощник для программирования.
 
 ## Графика и интерфейсы
@@ -179,7 +186,7 @@
 - ~~[DesktopOK](https://www.softportal.com/software-21897-desktopok.html) — Сохранение и восстановление расположения значков на рабочем столе.~~
 - [howdy](https://github.com/boltgolt/howdy) — Аналог Windows Hello для Linux.
 - [Hellpaper](https://github.com/danihek/hellpaper) — Селектор обоев на Linux.
-- [his](https://github.com/terroo/his) — Утилита для Windows и Linux, улучшающая визуализацию командной строки.
+- [His](https://github.com/terroo/his) — Утилита для просмотра истории команд с иконками и цветовыми обозначениями.
 - [Hyprpanel](https://hyprpanel.com/) — Визуальный редактор конфига Hyprland.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper) — Переназначение устройств ввода.
 - [KMP3](https://github.com/korei999/kmp3) — TUI медиаплеер.
@@ -189,7 +196,8 @@
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
 - [SelenUI](https://github.com/eythaann/Seelen-UI) — Кастомизация интерфейса Windows.
 - [Timr-Tui-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
-- [Ventoy](https://www.ventoy.net/) — Создание мультизагрузочных USB-накопителей.  
+- [Ventoy](https://www.ventoy.net/) — Создание мультизагрузочных USB-накопителей.
+- [Vibed Linux Rust Bitchat Client](https://github.com/spr-networks/bitchat-plugin) — Клиент Bitchat для Linux.
 - [X-Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) — Настройка кнопок мыши для разных приложений.
 
 ## Веб и загрузка контента
@@ -237,6 +245,7 @@
 - [CS50](https://cs50.harvard.edu/x/2025/) — Бесплатный курс Гарварда по программированию.
 - [LeetCode](https://leetcode.com/) — Платформа с задачами для подготовки к собеседованиям.
 - [S3-хранилище](https://youtube.com/watch?v=BecRFTzjXA8) — Обзор работы с объектным хранилищем на бэкенде.
+- [VIM Master](https://github.com/renzorlive/vimmaster) — Браузерная игра, предназначенная для обучения основным командам Vim.
 - ~~[Красивый Parallax](https://youtu.be/tk3ivPgOwpc) — Туториал по созданию эффекта параллакса.~~
 - [Лекция про нейросети](https://youtu.be/wjZofJX0v4M) — Введение в основы нейронных сетей.
 - [Осваиваем 23 языка программирования с нуля](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file) — Проектное обучение популярным языкам.
