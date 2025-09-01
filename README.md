@@ -44,7 +44,7 @@
 ## Мониторинг и уведомления
 - [Beszel](https://github.com/henrygd/beszel) — Облегчённая платформа для мониторинга серверов.
 - [EaseProbe](https://github.com/megaease/easeprobe) — Лёгкий инструмент для проверки состояния микросервисов.
-- [Deckhouse Prom++ ](https://github.com/deckhouse/prompp/)— Форк Prometheus с оптимизацией памяти.
+- [Deckhouse Prom++](https://github.com/deckhouse/prompp/)— Форк Prometheus с оптимизацией памяти.
 - [Grafana Tempo](https://grafana.com/oss/tempo/) — Система трассировки для микросервисов.
 - [ntfy.sh](https://ntfy.sh/) — Сервис для отправки push-уведомлений через HTTP-запросы.
 - [Script Exporter](https://github.com/ricoberger/script_exporter) — Prometheus экспортер, который выполняет скрипты и собирает метрики из выходных данных или статуса завершения.
@@ -54,7 +54,7 @@
 
 ## Безопасность и конфиденциальность
 - ~~[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai) — Хранение 2FA-кодов Google в браузере.~~
-- [Baïkal](https://sabre.io/baikal) - CardDAV+CalDAV сервер.
+- [Baïkal](https://sabre.io/baikal) — CardDAV+CalDAV сервер.
 - [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) — Инструмент для анализа и тестирования безопасности Bluetooth-устройств.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) — Коллаборативный файрвол для защиты от атак.
 - [Clip Vault](https://github.com/densumesh/clip-vault) — Безопасный буфер обмена.
@@ -65,7 +65,7 @@
 - [Kippo](https://github.com/desaster/kippo) — SSH-ловушка среднего уровня взаимодействия.
 - [LaZagne](https://github.com/AlessandroZ/LaZagne) — Извлечение множества паролей, хранящихся на локальном компьютере.
 - ~~[Lazywarden](https://github.com/querylab/lazywarden) — Утилита для резервного копирования данных Bitwarden.~~
-- [John the Ripper](https://github.com/openwall/john) - Инструмент для восстановления паролей.
+- [John the Ripper](https://github.com/openwall/john) — Инструмент для восстановления паролей.
 - [Marzban](https://github.com/Gozargah/Marzban) — Сервер для обхода интернет-цензуры.
 - [Pi.Alert](https://github.com/leiweibau/Pi.Alert) — Сканер сети с уведомлениями о новых устройствах.
 - [Portmaster](https://github.com/safing/portmaster) — Брандмауэр приложений.
@@ -100,7 +100,7 @@
 - [Gogs](https://github.com/gogs/gogs) — Лёгкий и стабильный Git-сервис.
 - [Hanko](https://github.com/teamhanko/hanko) — Решение для аутентификации и управления пользователями.
 - [Jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — Приложение для визуализации различных форматов данных (JSON, YAML, XML, CSV и другие) в интерактивные графики.
-- [Live Local Wi-Fi Sensing ](https://github.com/MaliosDark/wifi-3d-fusion)— Система, использующая Wi-Fi для отслеживания движения и 3D-визуализации в реальном времени.
+- [Live Local Wi-Fi Sensing ](https://github.com/MaliosDark/wifi-3d-fusion)— Отслеживание движения и 3D-визуализация через Wi-Fi.
 - [NiceGUI](https://nicegui.io/) — Фреймворк для создания веб-интерфейсов на Python.
 - [OHA](https://github.com/hatoo/oha) — Программа, которая отправляет запрос в веб-приложение и отображает данные в реальном времени.
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) — Шлюз для MQTT.
@@ -204,10 +204,10 @@
 - [howdy](https://github.com/boltgolt/howdy) — Аналог Windows Hello для Linux.
 - [Hellpaper](https://github.com/danihek/hellpaper) — Селектор обоев на Linux.
 - [His](https://github.com/terroo/his) — Утилита для просмотра истории команд с иконками и цветовыми обозначениями.
-- [Hyprpanel](https://hyprpanel.com/) — Визуальный редактор конфига Hyprland.
+- [Hyprpanel](https://hyprpanel.com/) — GUI для настройки Hyprland.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper) — Переназначение устройств ввода.
 - [KMP3](https://github.com/korei999/kmp3) — TUI медиаплеер.
-- [MyNav](https://github.com/GianlucaP106/mynav) — TUI навигатор по рабочему пространству и менеджер сессий.
+- [MyNav](https://github.com/GianlucaP106/mynav) — Менеджер рабочих пространств и TUI-навигатор сессий.
 - [Pake](https://github.com/tw93/Pake) — Преобразование веб-страниц в настольные приложения.
 - [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) — Набор утилит от Microsoft для улучшения Windows.
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
@@ -254,7 +254,7 @@
 ## Обучение и ресурсы
 - [400 вопросов с ответами для Python-разработчиков](https://github.com/DEBAGanov/interview_questions/blob/main/400%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D1%81%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B0%D0%BC%D0%B8%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%20%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.md) — Подготовка к собеседованиям.
 - [beatsync](https://www.beatsync.gg/) — Веб-приложение с открытым исходным кодом, которое предлагает высокоточное синхронизированное воспроизведение аудио на нескольких устройствах одновременно через браузер.
-- [CodeWars](https://www.codewars.com) - Обучение и практика в программировании в формате игры.
+- [CodeWars](https://www.codewars.com) — Обучение и практика в программировании в формате игры.
 - [Сomprehensive-rust](https://github.com/google/comprehensive-rust) — это курс Rust, используемый командой разработчиков Android в Google.
 - [CS50](https://cs50.harvard.edu/x/2025/) — Бесплатный курс Гарварда по программированию.
 - [LeetCode](https://leetcode.com/) — Платформа с задачами для подготовки к собеседованиям.
