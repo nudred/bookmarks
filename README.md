@@ -3,10 +3,10 @@
 ## Управление контейнерами и серверами
 - [Black Candy](https://github.com/blackcandy-org/blackcandy) — Сервер потоковой передачи музыки, персональный музыкальный центр.
 - [Copyparty](https://github.com/9001/copyparty) — Превращает практически любые устройства в файловые серверы.
-- [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) — Готовый Телеграм Бот для работы с ChatGPT.
+- [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) — Телеграм-бот для интеграции с ChatGPT, обеспечивающий удобное взаимодействие с ИИ через мессенджер.
 - [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Эмулятор Android, функционирующий в Docker.
 - [Docker-1C-Server](https://github.com/alexanderfefelov/docker-1c-server) — Готовый контейнер Docker с сервером 1С.
-- ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода блокировки Docker Hub в России.~~
+- ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода ограничений доступа к Docker Hub в регионах с блокировками.~~
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
 - [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
 - [Gokapi](https://github.com/Forceu/Gokapi) — Локальный файлообменный сервер с автоматическим удалением и поддержкой шифрования.
@@ -17,13 +17,14 @@
 - [MicroBin](https://github.com/szabodanika/microbin) — Сервер буффера обмена.
 - [Minecraft Server on Docker](https://docker-minecraft-server.readthedocs.io/en/latest/) — Контейнеризированный сервер Minecraft.
 - [Nimbus](https://github.com/nimbusdotstorage/Nimbus) — Альтернатива Google Drive.
+- [PasteBurn](https://github.com/pasteburn/pasteburn) — Зашифрованный аналог PasteBin для безопасного обмена данными.
 - [Podman](https://github.com/containers/podman) — Альтернатива Docker с поддержкой rootless-контейнеров.
 - [Portainer](https://github.com/portainer/portainer) — Удобный веб-интерфейс для управления контейнерами Docker.
 - [RustFS](https://github.com/rustfs/rustfs) — Высокопроизводительное распределённое объектное хранилище.
 - [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) — Почтовый сервер.
 - [Supercronic](https://github.com/aptible/supercronic) — Планировщик заданий для контейнеров.
 - [Termux udocker](https://github.com/George-Seven/Termux-Udocker) — Образы Docker в Termux с помощью Udocker.
-- ~~[Хуёкер](https://huecker.io/) — Прокси-сервис для доступа к Docker Hub при ограничениях.~~
+- ~~[Хуёкер](https://huecker.io/) — Прокси-сервис для обеспечения доступа к Docker Hub в условиях ограничений.~~
 
 ## Сети, туннелирование и трафик
 - [Bore](https://github.com/ekzhang/bore) — TCP-туннель на Rust для обхода NAT и доступа к локальным портам.
@@ -35,10 +36,10 @@
 - [Somo](https://github.com/theopfr/somo) — Удобная альтернатива netstat.
 - [SSHFS](https://github.com/libfuse/sshfs) — Монтирование удалённых файловых систем через SFTP.
 - [Tailscale](https://tailscale.com/) — VPN на базе WireGuard для создания защищённых сетей.
-- ~~[TextBee](https://github.com/vernu/textbee) — SMS-шлюз с открытым исходным кодом.~~
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) — Мониторинг трафика, CPU, GPU и RAM с историей использования.
 
 ## Мониторинг и уведомления
+- [Beszel](https://github.com/henrygd/beszel) — Облегчённая платформа для мониторинга серверов.
 - [EaseProbe](https://github.com/megaease/easeprobe) — Лёгкий инструмент для проверки состояния микросервисов.
 - [Deckhouse Prom++ ](https://github.com/deckhouse/prompp/)— Высокопроизводительная версия Prometheus, разработанная для значительного сокращения потребления памяти.
 - [Grafana Tempo](https://grafana.com/oss/tempo/) — Система трассировки для микросервисов.
@@ -49,9 +50,9 @@
 - [Zabbix](https://www.zabbix.com/) — Мониторинг серверов, сетей и приложений.
 
 ## Безопасность и конфиденциальность
+- ~~[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai) — Хранение 2FA-кодов Google в браузере.~~
 - [Baïkal](https://sabre.io/baikal) - CardDAV+CalDAV сервер.
-- [Beszel](https://github.com/henrygd/beszel) — Облегчённая платформа для мониторинга серверов.
-- [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) — Реализация концепции, позволяющей записывать и воспроизводить звук с Bluetooth-устройства без ведома законного пользователя.
+- [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) — Инструмент для анализа и тестирования безопасности Bluetooth-устройств.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) — Коллаборативный файрвол для защиты от атак.
 - [Clip Vault](https://github.com/densumesh/clip-vault) — Безопасный буфер обмена.
 - [Eraser](https://eraser.heidi.ie/download/) — Утилита для безвозвратного удаления файлов.
@@ -59,21 +60,21 @@
 - [HellPot](https://github.com/yunginnanet/HellPot) — HTTP-приманка для ботов с бесконечным циклом ответа.
 - [Honeypots Awesome](https://github.com/paralax/awesome-honeypots) — Тщательно подобранный список отличных ловушек.
 - [Kippo](https://github.com/desaster/kippo) — SSH-ловушка среднего уровня взаимодействия.
+- ~~[Lazywarden](https://github.com/querylab/lazywarden) — Утилита для резервного копирования данных Bitwarden.~~
 - [John the Ripper](https://github.com/openwall/john) - Инструмент для восстановления паролей.
 - [Marzban](https://github.com/Gozargah/Marzban) — Сервер для обхода интернет-цензуры.
-- [PasteBurn](https://github.com/pasteburn/pasteburn) — Зашифрованный аналог PasteBin для безопасного обмена данными.
 - [Pi.Alert](https://github.com/leiweibau/Pi.Alert) — Сканер сети с уведомлениями о новых устройствах.
 - [Portmaster](https://github.com/safing/portmaster) — Брандмауэр приложений.
 - [privacy-settings](https://github.com/StellarSand/privacy-settings) — Руководство по настройке безопасности и конфиденциальности.
 - [Raspirus](https://github.com/Raspirus/Raspirus) — Лёгкий сканер вредоносного ПО на основе правил.
+- ~~[TextBee](https://github.com/vernu/textbee) — SMS-шлюз с открытым исходным кодом.~~
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) — Поиск секретов в коде и репозиториях.
 - [VaultWarden](https://github.com/dani-garcia/vaultwarden) — Локальный менеджер паролей с открытым кодом.
-- ~~[Wifiphisher](https://github.com/wifiphisher/wifiphisher) — Python-утилита для анализа и перехвата Wi-Fi паролей.~~
-- ~~[Zydra](https://github.com/hamedA2/Zydra) — Инструмент для восстановления паролей защищённых файлов.~~
+- ~~[Wifiphisher](https://github.com/wifiphisher/wifiphisher) — Инструмент для тестирования безопасности Wi-Fi сетей с анализом уязвимостей.~~
+- ~~[Zydra](https://github.com/hamedA2/Zydra) — Утилита для тестирования стойкости паролей защищённых файлов в контролируемых условиях.~~
 - [Xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) — Проверка `$HOME` на наличие нежелательных файлов и каталогов.
 
 ## Управление данными и знаниями
-- ~~[Lazywarden](https://github.com/querylab/lazywarden) — Утилита для резервного копирования данных Bitwarden.~~
 - [Linkwarden](https://github.com/linkwarden/linkwarden) — Открытый менеджер закладок.
 - [Memos](https://github.com/usememos/memos) — Самостоятельное решение для ведения заметок.
 - [Obsidian](https://obsidian.md/) — Markdown-редактор с графом связей для заметок.
@@ -120,6 +121,7 @@
 ## Графика и интерфейсы
 - [Carbon](https://carbon.now.sh/) — Генератор красивых изображений кода.
 - [Catppuccin](https://catppuccin.com/) — Пастельная тема для интерфейсов и приложений.
+- ~~[DesktopOK](https://www.softportal.com/software-21897-desktopok.html) — Сохранение и восстановление расположения значков на рабочем столе.~~
 - [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) — Коллекция тем для кастомизации GRUB.
 - [Hugeicons](https://hugeicons.com/) — Библиотека из 4000+ SVG-иконок.
 - [Hyprland](https://hyprland.org/) — Тайлинговый Wayland-композитор с высокой производительностью.
@@ -176,7 +178,6 @@
 - [InfiniteYou-FLUX](https://huggingface.co/spaces/ByteDance/InfiniteYou-FLUX) — Дипфейки без ограничений.
 - [Piper](https://github.com/rhasspy/piper) — Локальная система текст-в-речь для Raspberry Pi.
 - [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) — Библиотека для преобразования речи в текст с минимальной задержкой.
-- [Shotcut](https://shotcut.org/) — Бесплатный видеоредактор с открытым кодом.
 - [smolagents](https://huggingface.co/blog/smolagents) — Библиотека для создания компактных ИИ-агентов.
 - [VALL-EX](https://github.com/Plachtaa/VALL-E-X) — Копирование голоса с помощью нейросетей.
 
@@ -194,7 +195,6 @@
 - [BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) — Мощный инструмент для массового удаления программ с очисткой остатков.
 - [BleachBit](https://www.bleachbit.org/) — Очистка системы от ненужных файлов и кэша.
 - [Bongo Cat Wayland Overlay](https://github.com/saatvik333/wayland-bongocat) — Котик играет на бонго в Wayland.
-- ~~[DesktopOK](https://www.softportal.com/software-21897-desktopok.html) — Сохранение и восстановление расположения значков на рабочем столе.~~
 - [Discordo](https://github.com/ayn2op/discordo) — Легковесный и безопасный клиент Discord для терминала.
 - [Drinfo](https://github.com/Lennart1978/drinfo) — Инструмент CLI для получения информации о физических и сетевых дисках Linux.
 - [howdy](https://github.com/boltgolt/howdy) — Аналог Windows Hello для Linux.
@@ -223,11 +223,11 @@
 - [Rezi](https://rezi.one/) — Поисковик по проверенным торрентам.
 - [Save Image As PNG](https://chromewebstore.google.com/detail/nkokmeaibnajheohncaamjggkanfbphi) — Конвертация изображений в PNG прямо в браузере.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Улучшенная версия youtube-dl для загрузки видео.
+- ~~[YouTube Redux](https://chromewebstore.google.com/detail/mdgdgieddpndgjlmeblhjgljejejkikf) — Расширение для возврата классического интерфейса YouTube.~~
 - [You-Get](https://github.com/soimort/you-get) — Утилита для загрузки видео, аудио и изображений с сайтов.
 
 ## Прочее
 - [Arq](https://github.com/python-arq/arq) — Очередь задачь и RPC на Python.
-- ~~[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai) — Хранение 2FA-кодов Google в браузере.~~
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) — Подборка полезных консольных сервисов.
 - [awesome-free-apps](https://github.com/Axorax/awesome-free-apps) — Список бесплатных приложений для разных платформ.
 - [BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) — Расширение для фильтрации SEO-спама и ИИ-контента ([блэклист](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt)).
@@ -249,7 +249,6 @@
 - [Ritmoteka](https://ritmoteka.ru/) — Поиск музыки по ритму через настукивание.
 - [UUP](https://uup.rg-adguard.net/) — Загрузка официальных ISO-образов Windows.
 - [WebBrowserTools](https://webbrowsertools.com/) — Набор утилит для работы в браузере.
-- ~~[YouTube Redux](https://chromewebstore.google.com/detail/mdgdgieddpndgjlmeblhjgljejejkikf) — Расширение для возврата классического интерфейса YouTube.~~
 - [WebSSH](https://github.com/huashengdun/webssh) — Веб-приложение клиент SSH.
 
 ## Обучение и ресурсы
@@ -262,7 +261,7 @@
 - [Pngimg](https://pngimg.com) — Огромная база, где собраны тысячи готовых PNG-файлов.
 - [S3-хранилище](https://youtube.com/watch?v=BecRFTzjXA8) — Обзор работы с объектным хранилищем на бэкенде.
 - [VIM Master](https://github.com/renzorlive/vimmaster) — Браузерная игра, предназначенная для обучения основным командам Vim.
-- ~~[Красивый Parallax](https://youtu.be/tk3ivPgOwpc) — Туториал по созданию эффекта параллакса.~~
+- ~~[Красивый Parallax](https://youtu.be/tk3ivPgOwpc) — Руководство по созданию эффекта параллакса для веб-дизайна.~~
 - [Лекция про нейросети](https://youtu.be/wjZofJX0v4M) — Введение в основы нейронных сетей.
 - [Осваиваем 23 языка программирования с нуля](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file) — Проектное обучение популярным языкам.
 - [Полезные Python-библиотеки](https://t.me/PythonPortal/3530) — Обзор библиотек для Python-разработчиков.
