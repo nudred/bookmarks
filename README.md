@@ -1,14 +1,18 @@
 # Закладки
 
 ## Управление контейнерами и серверами
+- [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Эмулятор Android, функционирующий в Docker.
 - [Docker-1C-Server](https://github.com/alexanderfefelov/docker-1c-server) — Готовый контейнер Docker с сервером 1С.
 - ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода блокировки Docker Hub в России.~~
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
+- [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
+- [isd](https://github.com/isd-project/isd) — Новое слово в управлении systemd.
 - [K3s](https://github.com/k3s-io/k3s) — Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
 - [Minecraft Server on Docker](https://docker-minecraft-server.readthedocs.io/en/latest/) — Контейнеризированный сервер Minecraft.
 - [Podman](https://github.com/containers/podman) — Альтернатива Docker с поддержкой rootless-контейнеров.
 - [Portainer](https://github.com/portainer/portainer) — Удобный веб-интерфейс для управления контейнерами Docker.
 - [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) — Почтовый сервер.
+- [Supercronic](https://github.com/aptible/supercronic) — Планировщик заданий для контейнеров.
 - ~~[Хуёкер](https://huecker.io/) — Прокси-сервис для доступа к Docker Hub при ограничениях.~~
 
 ## Сети, туннелирование и трафик
@@ -22,13 +26,16 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) — Мониторинг трафика, CPU, GPU и RAM с историей использования.
 
 ## Мониторинг и уведомления
-- [EaseProbe](https://github.com/megaease/easeprobe) — Лёгкий инструмент для проверки состояния микросервисов. 
+- [EaseProbe](https://github.com/megaease/easeprobe) — Лёгкий инструмент для проверки состояния микросервисов.
+- [Deckhouse Prom++ ](https://github.com/deckhouse/prompp/)— Высокопроизводительная версия Prometheus, разработанная для значительного сокращения потребления памяти.
 - [Grafana Tempo](https://grafana.com/oss/tempo/) — Система трассировки для микросервисов.
 - [ntfy.sh](https://ntfy.sh/) — Сервис для отправки push-уведомлений через HTTP-запросы.
 - [Uptime-Kuma](https://github.com/louislam/uptime-kuma) — Система мониторинга сервисов в реальном времени без агентов.
 - [Zabbix](https://www.zabbix.com/) — Мониторинг серверов, сетей и приложений.
 
 ## Безопасность и конфиденциальность
+- [Baïkal](https://sabre.io/baikal) - CardDAV+CalDAV сервер.
+- [Beszel](https://github.com/henrygd/beszel) — Облегчённая платформа для мониторинга серверов.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) — Коллаборативный файрвол для защиты от атак.
 - [Eraser](https://eraser.heidi.ie/download/) — Утилита для безвозвратного удаления файлов.
 - [Fort](https://github.com/tnodir/fort) — Простой файрвол для Windows 7 и выше.
@@ -37,11 +44,13 @@
 - [Marzban](https://github.com/Gozargah/Marzban) — Сервер для обхода интернет-цензуры.
 - [PasteBurn](https://github.com/pasteburn/pasteburn) — Зашифрованный аналог PasteBin для безопасного обмена данными.
 - [Pi.Alert](https://github.com/leiweibau/Pi.Alert) — Сканер сети с уведомлениями о новых устройствах.
+- [Portmaster](https://github.com/safing/portmaster) — Брандмауэр приложений.
 - [privacy-settings](https://github.com/StellarSand/privacy-settings) — Руководство по настройке безопасности и конфиденциальности.
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) — Поиск секретов в коде и репозиториях.
 - [VaultWarden](https://github.com/dani-garcia/vaultwarden) — Локальный менеджер паролей с открытым кодом.
 - ~~[Wifiphisher](https://github.com/wifiphisher/wifiphisher) — Python-утилита для анализа и перехвата Wi-Fi паролей.~~
 - ~~[Zydra](https://github.com/hamedA2/Zydra) — Инструмент для восстановления паролей защищённых файлов.~~
+- [Xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) — Проверка `$HOME` на наличие нежелательных файлов и каталогов.
 
 ## Управление данными и знаниями
 - ~~[Lazywarden](https://github.com/querylab/lazywarden) — Утилита для резервного копирования данных Bitwarden.~~
@@ -53,16 +62,19 @@
 - [SiYuan](https://github.com/siyuan-note/siyuan) — Система управления знаниями с Markdown и акцентом на приватность.
 
 ## Разработка и тестирование
+- [AirRemote](https://github.com/jugeekuz/AirRemote-Frontend) — Модернизация устаревших устройств с дистанционным управлением в IoT.
 - [Astro](https://astro.build/) — Фреймворк для создания быстрых статичных сайтов.
 - [Bun](https://bun.sh/) — Быстрый JavaScript-рантайм, альтернатива Node.js.
 - [DevToys](https://github.com/DevToys-app/DevToys) — Набор утилит для упрощения разработки.
 - [Faker](https://github.com/faker-ruby/faker) — Генератор тестовых данных (имена, адреса и др.).
+- [IPSpot](https://github.com/openscilab/ipspot) — Библиотека на Python, для получения текущего IP-адреса и информации о местоположении.
 - [NiceGUI](https://nicegui.io/) — Фреймворк для создания веб-интерфейсов на Python.
 - [Pex](https://github.com/pex-tool/pex) — Упаковщик Python-проектов для офлайн-развёртывания.
 - [Playwright](https://playwright.dev/) — Инструмент для автоматизации тестирования веб-приложений.  
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) — Инструмент для тестирования HTTP-запросов (HTTP/2, HTTP/3).
 - [PostgREST](https://github.com/PostgREST/postgrest) — Автоматический REST API из базы PostgreSQL.
 - [Posting](https://github.com/darrenburns/posting) — TUI-клиент для HTTP-запросов, альтернатива Postman.
+- [Python-kasa](https://github.com/python-kasa/python-kasa) — Библиотека Python для управления устройствами умного дома TPLink.
 - ~~[Py2many](https://github.com/py2many/py2many) — Транслятор Python-кода в другие языки (Rust, Go и др.).~~
 - [Qwen2.5-Coder-32B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct) — Модель ИИ для поддержки разработчиков.
 - [Robyn](https://github.com/sparckles/Robyn) — Асинхронный веб-фреймворк на Python и Rust.
@@ -93,6 +105,7 @@
 
 ## Работа с файлами и медиа
 - [BTFS](https://github.com/johang/btfs) — Монтирование торрентов как файловой системы.
+- [Black Candy](https://github.com/blackcandy-org/blackcandy) — Сервер потоковой передачи музыки, персональный музыкальный центр.
 - [DDColor](https://github.com/piddnad/DDColor) — Раскраска чёрно-белых изображений с фотореализмом.
 - [DeepSound](https://github.com/oneplus-x/DeepSound-2.0) — Скрытие данных в аудиофайлах (стеганография).
 - [Everything](https://www.voidtools.com/ru-ru/) — Быстрый поиск файлов на ПК.
@@ -147,6 +160,7 @@
 - [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) — Набор утилит от Microsoft для улучшения Windows.
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
 - [SelenUI](https://github.com/eythaann/Seelen-UI) — Кастомизация интерфейса Windows.
+- [Timr-Tui-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
 - [Ventoy](https://www.ventoy.net/) — Создание мультизагрузочных USB-накопителей.  
 - [X-Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) — Настройка кнопок мыши для разных приложений.
 
@@ -167,6 +181,7 @@
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) — Подборка полезных консольных сервисов.
 - [awesome-free-apps](https://github.com/Axorax/awesome-free-apps) — Список бесплатных приложений для разных платформ.
 - [BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) — Расширение для фильтрации SEO-спама и ИИ-контента ([блэклист](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt)).
+- [Community-Managed Free Subdomain Registry](https://github.com/domainsproject/register ) — Регистрация бесплатных субдоменов.
 - [doomcaptcha](https://vivirenremoto.github.io/doomcaptcha/) — Интерактивная CAPTCHA в стиле Doom.
 - [Dragonfly](https://www.dragonflydb.io/) — Высокопроизводительный аналог Redis.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) — Виртуальная доска для создания диаграмм и набросков.
@@ -189,6 +204,7 @@
 ## Обучение и ресурсы
 - [400 вопросов с ответами для Python-разработчиков](https://github.com/DEBAGanov/interview_questions/blob/main/400%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D1%81%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B0%D0%BC%D0%B8%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%20%D0%B7%D0%BD%D0%B0%D1%82%D1%8C%20Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.md) — Подготовка к собеседованиям.
 - [CodeWars](https://www.codewars.com) - Обучение и практика в программировании в формате игры.
+- [Сomprehensive-rust](https://github.com/google/comprehensive-rust) — это курс Rust, используемый командой разработчиков Android в Google.
 - [CS50](https://cs50.harvard.edu/x/2025/) — Бесплатный курс Гарварда по программированию.
 - [LeetCode](https://leetcode.com/) — Платформа с задачами для подготовки к собеседованиям.
 - [S3-хранилище](https://youtube.com/watch?v=BecRFTzjXA8) — Обзор работы с объектным хранилищем на бэкенде.
