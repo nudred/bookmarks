@@ -2,6 +2,7 @@
 
 ## Управление контейнерами и серверами
 - [Black Candy](https://github.com/blackcandy-org/blackcandy) — Сервер потоковой передачи музыки, персональный музыкальный центр.
+- [CloudReve](https://github.com/cloudreve/Cloudreve) — Система управления файлами.
 - [Copyparty](https://github.com/9001/copyparty) — Превращает практически любые устройства в файловые серверы.
 - [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) — Телеграм-бот для интеграции с ChatGPT, обеспечивающий удобное взаимодействие с ИИ через мессенджер.
 - [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Эмулятор Android, функционирующий в Docker.
@@ -10,6 +11,7 @@
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
 - [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
 - [Gokapi](https://github.com/Forceu/Gokapi) — Локальный файлообменный сервер с автоматическим удалением и поддержкой шифрования.
+- [Home Assistant](https://www.home-assistant.io/) — Платформа для умного дома с открытым кодом.
 - [InvenTree](https://github.com/inventree/InvenTree) — Система управления запасами.
 - [isd](https://github.com/isd-project/isd) — Новое слово в управлении systemd.
 - [K3s](https://github.com/k3s-io/k3s) — Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
@@ -32,6 +34,7 @@
 - [Doggo](https://github.com/mr-karan/doggo) — Современный DNS-клиент командной строки (как dig).
 - [frp](https://github.com/fatedier/frp) — Инструмент туннелирования, аналог Ngrok, для проброса локальных сервисов.
 - [Godoxy](https://github.com/yusing/godoxy) — Лёгкий, простой и производительный обратный прокси-сервер с веб-интерфейсом.
+- [IPSpot](https://github.com/openscilab/ipspot) — Библиотека на Python, для получения текущего IP-адреса и информации о местоположении.
 - [Pangolin](https://github.com/fosrl/pangolin) — Обратный прокси-сервер с идентификацией и контролем доступа.
 - [Somo](https://github.com/theopfr/somo) — Удобная альтернатива netstat.
 - [SSHFS](https://github.com/libfuse/sshfs) — Монтирование удалённых файловых систем через SFTP.
@@ -60,6 +63,7 @@
 - [HellPot](https://github.com/yunginnanet/HellPot) — HTTP-приманка для ботов с бесконечным циклом ответа.
 - [Honeypots Awesome](https://github.com/paralax/awesome-honeypots) — Тщательно подобранный список отличных ловушек.
 - [Kippo](https://github.com/desaster/kippo) — SSH-ловушка среднего уровня взаимодействия.
+- [LaZagne](https://github.com/AlessandroZ/LaZagne) — Извлечение множества паролей, хранящихся на локальном компьютере.
 - ~~[Lazywarden](https://github.com/querylab/lazywarden) — Утилита для резервного копирования данных Bitwarden.~~
 - [John the Ripper](https://github.com/openwall/john) - Инструмент для восстановления паролей.
 - [Marzban](https://github.com/Gozargah/Marzban) — Сервер для обхода интернет-цензуры.
@@ -84,20 +88,18 @@
 
 ## Разработка и тестирование
 - [AirRemote](https://github.com/jugeekuz/AirRemote-Frontend) — Модернизация устаревших устройств с дистанционным управлением в IoT.
+- [Arq](https://github.com/python-arq/arq) — Очередь задачь и RPC на Python.
 - [Astro](https://astro.build/) — Фреймворк для создания быстрых статичных сайтов.
 - [Bun](https://bun.sh/) — Быстрый JavaScript-рантайм, альтернатива Node.js.
-- [CloudReve](https://github.com/cloudreve/Cloudreve) — Система управления файлами.
 - [DevToys](https://github.com/DevToys-app/DevToys) — Набор утилит для упрощения разработки.
 - [Depyler](https://github.com/paiml/depyler) — Энергоэффективный транспайлер Python-to-Rust с возможностью прогрессивной верификации.
-- [Exodus](https://github.com/intoli/exodus) — Инструмент для переноса бинарных файлов Linux между системами, которые не поддерживают необходимые для работы пакеты.
+- [Dragonfly](https://www.dragonflydb.io/) — Высокопроизводительный аналог Redis.
 - [Faker](https://github.com/faker-ruby/faker) — Генератор тестовых данных (имена, адреса и др.).
 - [ggwave](https://github.com/ggerganov/ggwave) — Кодирует и декодирует информацию в звук.
 - [Gitnuro](https://github.com/JetpackDuba/Gitnuro) — Мультиплатформенный Git-клиент.
+- [Gogs](https://github.com/gogs/gogs) — Лёгкий и стабильный Git-сервис.
 - [Hanko](https://github.com/teamhanko/hanko) — Решение для аутентификации и управления пользователями.
-- [IPSpot](https://github.com/openscilab/ipspot) — Библиотека на Python, для получения текущего IP-адреса и информации о местоположении.
 - [Jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — Приложение для визуализации различных форматы данных (JSON, YAML, XML, CSV и другие) в интерактивные графики.
-- [Klangio](https://klang.io/) — Преобразование музыку в нотные записи, табулатуры, MIDI и MusicXML форматы.  
-- [LaZagne](https://github.com/AlessandroZ/LaZagne) — Извлечение множества паролей, хранящихся на локальном компьютере.
 - [Live Local Wi-Fi Sensing ](https://github.com/MaliosDark/wifi-3d-fusion)— Инновационная система, использующая Wi-Fi для обнаружения движения и 3D визуализации в реальном времени.
 - [NiceGUI](https://nicegui.io/) — Фреймворк для создания веб-интерфейсов на Python.
 - [OHA](https://github.com/hatoo/oha) — Программа, которая отправляет запрос в веб-приложение и отображает данные в реальном времени.
@@ -151,6 +153,7 @@
 - [fzfm](https://github.com/ashish0kumar/fzfm) — Быстрый файловый менеджер для терминала.
 - [HandBrake](https://handbrake.fr/) — Открытый конвертер видео с гибкими настройками.
 - [img-RAR](https://www.softportal.com/get-19883-img-rar.html) — Стеганография для изображений.
+- [Klangio](https://klang.io/) — Преобразование музыку в нотные записи, табулатуры, MIDI и MusicXML форматы.
 - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) — Набор кодеков для аудио и видео.
 - [Kadinsky](https://github.com/ai-forever/Kandinsky-2) — Генератор изображений от Sber.
 - [MagicQuill](https://github.com/magic-quill/MagicQuill) — Открытый аналог Photoshop.
@@ -197,6 +200,7 @@
 - [Bongo Cat Wayland Overlay](https://github.com/saatvik333/wayland-bongocat) — Котик играет на бонго в Wayland.
 - [Discordo](https://github.com/ayn2op/discordo) — Легковесный и безопасный клиент Discord для терминала.
 - [Drinfo](https://github.com/Lennart1978/drinfo) — Инструмент CLI для получения информации о физических и сетевых дисках Linux.
+- [Exodus](https://github.com/intoli/exodus) — Инструмент для переноса бинарных файлов Linux между системами, которые не поддерживают необходимые для работы пакеты.
 - [howdy](https://github.com/boltgolt/howdy) — Аналог Windows Hello для Linux.
 - [Hellpaper](https://github.com/danihek/hellpaper) — Селектор обоев на Linux.
 - [His](https://github.com/terroo/his) — Утилита для просмотра истории команд с иконками и цветовыми обозначениями.
@@ -227,18 +231,14 @@
 - [You-Get](https://github.com/soimort/you-get) — Утилита для загрузки видео, аудио и изображений с сайтов.
 
 ## Прочее
-- [Arq](https://github.com/python-arq/arq) — Очередь задачь и RPC на Python.
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) — Подборка полезных консольных сервисов.
 - [awesome-free-apps](https://github.com/Axorax/awesome-free-apps) — Список бесплатных приложений для разных платформ.
 - [BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) — Расширение для фильтрации SEO-спама и ИИ-контента ([блэклист](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt)).
 - [Community-Managed Free Subdomain Registry](https://github.com/domainsproject/register ) — Регистрация бесплатных субдоменов.
 - [doomcaptcha](https://vivirenremoto.github.io/doomcaptcha/) — Интерактивная CAPTCHA в стиле Doom.
-- [Dragonfly](https://www.dragonflydb.io/) — Высокопроизводительный аналог Redis.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) — Виртуальная доска для создания диаграмм и набросков.
 - [Fastapi-guard](https://github.com/rennf93/fastapi-guard) — Библиотека безопасности для FastAPI.
-- [Gogs](https://github.com/gogs/gogs) — Лёгкий и стабильный Git-сервис.
 - [GoSearch](http://github.com/ibnaleem/gosearch) — Инструмент для поиска цифрового следа человека.
-- [Home Assistant](https://www.home-assistant.io/) — Платформа для умного дома с открытым кодом.
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) — Локальный API для машинного перевода без внешних зависимостей.
 - [mCaptcha](https://github.com/mCaptcha/mCaptcha) — CAPTCHA с акцентом на конфиденциальность.
 - [Nix](https://nixos.org/) — Пакетный менеджер для воспроизводимых сборок.
