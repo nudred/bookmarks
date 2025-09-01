@@ -9,6 +9,7 @@
 - [isd](https://github.com/isd-project/isd) — Новое слово в управлении systemd.
 - [K3s](https://github.com/k3s-io/k3s) — Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
 - [Minecraft Server on Docker](https://docker-minecraft-server.readthedocs.io/en/latest/) — Контейнеризированный сервер Minecraft.
+- [Nimbus](https://github.com/nimbusdotstorage/Nimbus) — Альтернатива Google Drive.
 - [Podman](https://github.com/containers/podman) — Альтернатива Docker с поддержкой rootless-контейнеров.
 - [Portainer](https://github.com/portainer/portainer) — Удобный веб-интерфейс для управления контейнерами Docker.
 - [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) — Почтовый сервер.
@@ -18,8 +19,11 @@
 ## Сети, туннелирование и трафик
 - [Bore](https://github.com/ekzhang/bore) — TCP-туннель на Rust для обхода NAT и доступа к локальным портам.
 - [Cloudflared](https://github.com/cloudflare/cloudflared) — Клиент для туннелирования через Cloudflare Tunnel.
+- [Doggo](https://github.com/mr-karan/doggo) — Современный DNS-клиент командной строки (как dig).
 - [frp](https://github.com/fatedier/frp) — Инструмент туннелирования, аналог Ngrok, для проброса локальных сервисов.
 - [Godoxy](https://github.com/yusing/godoxy) — Лёгкий, простой и производительный обратный прокси-сервер с веб-интерфейсом.
+- [Pangolin](https://github.com/fosrl/pangolin) — Обратный прокси-сервер с идентификацией и контролем доступа.
+- [Somo](https://github.com/theopfr/somo) — Удобная альтернатива netstat.
 - [SSHFS](https://github.com/libfuse/sshfs) — Монтирование удалённых файловых систем через SFTP.
 - [Tailscale](https://tailscale.com/) — VPN на базе WireGuard для создания защищённых сетей.
 - ~~[TextBee](https://github.com/vernu/textbee) — SMS-шлюз с открытым исходным кодом.~~
@@ -30,6 +34,8 @@
 - [Deckhouse Prom++ ](https://github.com/deckhouse/prompp/)— Высокопроизводительная версия Prometheus, разработанная для значительного сокращения потребления памяти.
 - [Grafana Tempo](https://grafana.com/oss/tempo/) — Система трассировки для микросервисов.
 - [ntfy.sh](https://ntfy.sh/) — Сервис для отправки push-уведомлений через HTTP-запросы.
+- [Script Exporter](https://github.com/ricoberger/script_exporter) — Prometheus экспортер, который выполняет скрипты и собирает метрики из выходных данных или статуса завершения.
+- [Telert](https://github.com/navig-me/telert) — Легковесная утилита для многоканальных уведомлений.
 - [Uptime-Kuma](https://github.com/louislam/uptime-kuma) — Система мониторинга сервисов в реальном времени без агентов.
 - [Zabbix](https://www.zabbix.com/) — Мониторинг серверов, сетей и приложений.
 
@@ -37,9 +43,11 @@
 - [Baïkal](https://sabre.io/baikal) - CardDAV+CalDAV сервер.
 - [Beszel](https://github.com/henrygd/beszel) — Облегчённая платформа для мониторинга серверов.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) — Коллаборативный файрвол для защиты от атак.
+- [Clip Vault](https://github.com/densumesh/clip-vault) — Безопасный буфер обмена.
 - [Eraser](https://eraser.heidi.ie/download/) — Утилита для безвозвратного удаления файлов.
 - [Fort](https://github.com/tnodir/fort) — Простой файрвол для Windows 7 и выше.
 - [HellPot](https://github.com/yunginnanet/HellPot) — HTTP-приманка для ботов с бесконечным циклом ответа.
+- [Kippo](https://github.com/desaster/kippo) — SSH-ловушка среднего уровня взаимодействия.
 - [John the Ripper](https://github.com/openwall/john) - Инструмент для восстановления паролей.
 - [Marzban](https://github.com/Gozargah/Marzban) — Сервер для обхода интернет-цензуры.
 - [PasteBurn](https://github.com/pasteburn/pasteburn) — Зашифрованный аналог PasteBin для безопасного обмена данными.
@@ -65,10 +73,20 @@
 - [AirRemote](https://github.com/jugeekuz/AirRemote-Frontend) — Модернизация устаревших устройств с дистанционным управлением в IoT.
 - [Astro](https://astro.build/) — Фреймворк для создания быстрых статичных сайтов.
 - [Bun](https://bun.sh/) — Быстрый JavaScript-рантайм, альтернатива Node.js.
+- [CloudReve](https://github.com/cloudreve/Cloudreve) — Система управления файлами.
 - [DevToys](https://github.com/DevToys-app/DevToys) — Набор утилит для упрощения разработки.
+- [Exodus](https://github.com/intoli/exodus) — Инструмент для переноса бинарных файлов Linux между системами, которые не поддерживают необходимые для работы пакеты.
 - [Faker](https://github.com/faker-ruby/faker) — Генератор тестовых данных (имена, адреса и др.).
+- [ggwave](https://github.com/ggerganov/ggwave) — Кодирует и декодирует информацию в звук.
+- [Gitnuro](https://github.com/JetpackDuba/Gitnuro) — Мультиплатформенный Git-клиент.
+- [Hanko](https://github.com/teamhanko/hanko) — Решение для аутентификации и управления пользователями.
 - [IPSpot](https://github.com/openscilab/ipspot) — Библиотека на Python, для получения текущего IP-адреса и информации о местоположении.
+- [Jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) — Приложение для визуализации различных форматы данных (JSON, YAML, XML, CSV и другие) в интерактивные графики.
+- [Klangio](https://klang.io/) — Преобразование музыку в нотные записи, табулатуры, MIDI и MusicXML форматы.  
+- [LaZagne](https://github.com/AlessandroZ/LaZagne) — Извлечение множества паролей, хранящихся на локальном компьютере.
 - [NiceGUI](https://nicegui.io/) — Фреймворк для создания веб-интерфейсов на Python.
+- [OHA](https://github.com/hatoo/oha) — Программа, которая отправляет запрос в веб-приложение и отображает данные в реальном времени.
+- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) — Шлюз для MQTT.
 - [Pex](https://github.com/pex-tool/pex) — Упаковщик Python-проектов для офлайн-развёртывания.
 - [Playwright](https://playwright.dev/) — Инструмент для автоматизации тестирования веб-приложений.  
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) — Инструмент для тестирования HTTP-запросов (HTTP/2, HTTP/3).
@@ -76,6 +94,7 @@
 - [Posting](https://github.com/darrenburns/posting) — TUI-клиент для HTTP-запросов, альтернатива Postman.
 - [Python-kasa](https://github.com/python-kasa/python-kasa) — Библиотека Python для управления устройствами умного дома TPLink.
 - ~~[Py2many](https://github.com/py2many/py2many) — Транслятор Python-кода в другие языки (Rust, Go и др.).~~
+- [Pwnat](https://github.com/samyk/pwnat) — Инструмент для пробивания дыр в брандмауэрах/NAT.
 - [Qwen2.5-Coder-32B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct) — Модель ИИ для поддержки разработчиков.
 - [Robyn](https://github.com/sparckles/Robyn) — Асинхронный веб-фреймворк на Python и Rust.
 - [Ruff](https://github.com/astral-sh/ruff) — Быстрый линтер и форматировщик Python-кода на Rust.
@@ -96,6 +115,7 @@
 
 ## Передача данных и совместная работа
 - [Audio Share](https://github.com/mkckr0/audio-share) — Передача звука с ПК на Android-устройства.
+- [ByteSync](https://github.com/POW-Software/ByteSync) — Синхронизация файлов по требованию.
 - [Deskflow](https://github.com/deskflow/deskflow) — Единое управление несколькими ПК с одной мыши и клавиатуры.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) — Управление мышью и клавиатурой через сеть.
 - [LocalSend](https://github.com/localsend/localsend) — Передача файлов между устройствами в локальной сети.
@@ -116,10 +136,12 @@
 - [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) — Набор кодеков для аудио и видео.
 - [Kadinsky](https://github.com/ai-forever/Kandinsky-2) — Генератор изображений от Sber.
 - [MagicQuill](https://github.com/magic-quill/MagicQuill) — Открытый аналог Photoshop.
+- [NanoCell](https://github.com/CedricBonjour/nanocell-csv) — Мощный редактор таблиц.
 - [nnn](https://github.com/jarun/nnn) — Лёгкий консольный файловый менеджер.
 - [Pulse](https://github.com/adamian98/pulse) — Повышение разрешения пиксельных изображений до FullHD.
 - [Rotato](https://tools.rotato.app/compress) — Сжатие видео на 90% с минимальной потерей качества.
 - [Shotcut](https://shotcut.org/) — Бесплатный видеоредактор с открытым кодом.
+- [Tablecruncher](https://github.com/Tablecruncher/tablecruncher) — Быстрый редактор CSV-файлов, созданный для удобной работы с большими файлами.
 - [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui) — Удаление вокала из аудиофайлов.
 - [Vectorizer](https://vectorizer.ai/) — Преобразование растровых изображений в векторные.
 - [WatermarkRemover](https://www.watermarkremover.io/ru) — Удаление водяных знаков с изображений.
@@ -153,9 +175,15 @@
 ## Утилиты для системы и рабочего стола
 - [BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) — Мощный инструмент для массового удаления программ с очисткой остатков.
 - [BleachBit](https://www.bleachbit.org/) — Очистка системы от ненужных файлов и кэша.
+- [Bongo Cat Wayland Overlay](https://github.com/saatvik333/wayland-bongocat) — Котик играет на бонго в Wayland.
 - ~~[DesktopOK](https://www.softportal.com/software-21897-desktopok.html) — Сохранение и восстановление расположения значков на рабочем столе.~~
 - [howdy](https://github.com/boltgolt/howdy) — Аналог Windows Hello для Linux.
+- [Hellpaper](https://github.com/danihek/hellpaper) — Селектор обоев на Linux.
+- [his](https://github.com/terroo/his) — Утилита для Windows и Linux, улучшающая визуализацию командной строки.
+- [Hyprpanel](https://hyprpanel.com/) — Визуальный редактор конфига Hyprland.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper) — Переназначение устройств ввода.
+- [KMP3](https://github.com/korei999/kmp3) — TUI медиаплеер.
+- [MyNav](https://github.com/GianlucaP106/mynav) — TUI навигатор по рабочему пространству и менеджер сессий.
 - [Pake](https://github.com/tw93/Pake) — Преобразование веб-страниц в настольные приложения.
 - [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) — Набор утилит от Microsoft для улучшения Windows.
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
@@ -192,6 +220,7 @@
 - [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) — Локальный API для машинного перевода без внешних зависимостей.
 - [mCaptcha](https://github.com/mCaptcha/mCaptcha) — CAPTCHA с акцентом на конфиденциальность.
 - [Nix](https://nixos.org/) — Пакетный менеджер для воспроизводимых сборок.
+- [OnlyHuman](https://github.com/FranklyRocks/OnlyHuman) — Фильтр uBlock Origin для удаления контента, сгенерированного ИИ, спам-ботов и т.д.
 - [OpenAlternative](https://openalternative.co) — Альтернативы проприетарному ПО.
 - [Rallyup](https://github.com/darwindarak/rallyup) — Планировщик Wake-On-LAN и управление зависимостями для малых сетей.
 - [Revanced Extended](https://github.com/NoName-exe/revanced-extended/releases) — Модифицированная версия YouTube с доп. функциями.
