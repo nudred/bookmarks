@@ -154,6 +154,7 @@
 - [Audio Share](https://github.com/mkckr0/audio-share) — Передача звука с ПК на Android-устройства.
 - [ByteSync](https://github.com/POW-Software/ByteSync) — Синхронизация файлов по требованию.
 - [Deskflow](https://github.com/deskflow/deskflow) — Единое управление несколькими ПК с одной мыши и клавиатуры.
+- [Enchat](https://github.com/sudodevdante/enchat) — Полностью конфиденциальные беседы без корпоративного надзора или сбора данных.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) — Управление мышью и клавиатурой через сеть.
 - [LocalSend](https://github.com/localsend/localsend) — Передача файлов между устройствами в локальной сети.
 - [Parsec](https://parsec.app/) — Удалённый доступ к локальным играм с низкой задержкой.
