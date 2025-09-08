@@ -25,6 +25,7 @@
 - [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Эмулятор Android, функционирующий в Docker.
 - [Docker-1C-Server](https://github.com/alexanderfefelov/docker-1c-server) — Готовый контейнер Docker с сервером 1С.
 - ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода ограничений доступа к Docker Hub в регионах с блокировками.~~
+- [Dtop](https://github.com/amir20/dtop) — Выводит исчерпывающую информацию обо всех контейнерах.
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
 - [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
 - [Gokapi](https://github.com/Forceu/Gokapi) — Локальный файлообменный сервер с автоматическим удалением и поддержкой шифрования.
@@ -32,6 +33,7 @@
 - [InvenTree](https://github.com/inventree/InvenTree) — Система управления запасами.
 - [isd](https://github.com/isd-project/isd) — Утилита для удобного управления сервисами systemd.
 - [K3s](https://github.com/k3s-io/k3s) — Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
+- [Lazyssh]([url](https://github.com/adembc/lazyssh) — Интерактивный менеджер SSH. 
 - [MediaMTX](https://github.com/bluenviron/mediamtx) — Готовый медиасервер и медиапрокси.
 - [MicroBin](https://github.com/szabodanika/microbin) — Самостоятельный pastebin-сервер с минималистичным интерфейсом.
 - [Minecraft Server on Docker](https://docker-minecraft-server.readthedocs.io/en/latest/) — Контейнеризированный сервер Minecraft.
@@ -230,6 +232,8 @@
 - [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) — Набор утилит от Microsoft для улучшения Windows.
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
 - [SelenUI](https://github.com/eythaann/Seelen-UI) — Кастомизация интерфейса Windows.
+- [StreamGrid]([url](https://github.com/LordKnish/StreamGrid)) — Решение для мульти-просмотра потоковых видео в виде сетки. 
+- [SunnyCapturer]([url](https://github.com/XMuli/SunnyCapturer)) — Кросс-платформенное ПО для создания скриншотов (может извлекать текст).
 - [Terminal Background Creator](https://github.com/DaarcyDev/terminal-bg) — Терминал как прозрачный Live Wallpaper.
 - [Timr-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
 - [Ventoy](https://www.ventoy.net/) — Создание мультизагрузочных USB-накопителей.
