@@ -23,7 +23,7 @@
 - [Copyparty](https://github.com/9001/copyparty) — Превращает практически любые устройства в файловые серверы.
 - [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) — Телеграм-бот для интеграции с ChatGPT, обеспечивающий удобное взаимодействие с ИИ через мессенджер.
 - [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Эмулятор Android, функционирующий в Docker.
-- [Docker-1C-Server](https://github.com/alexanderfefelov/docker-1c-server) — Готовый контейнер Docker с сервером 1С.
+- ~~[Docker-1C-Server](https://github.com/alexanderfefelov/docker-1c-server) — Готовый контейнер Docker с сервером 1С.~~
 - ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода ограничений доступа к Docker Hub в регионах с блокировками.~~
 - ~~[Dtop](https://github.com/amir20/dtop) — Выводит исчерпывающую информацию обо всех контейнерах.~~
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
