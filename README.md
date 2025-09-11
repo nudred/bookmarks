@@ -58,7 +58,7 @@
 - [Somo](https://github.com/theopfr/somo) — Удобная альтернатива netstat.
 - [SSHFS](https://github.com/libfuse/sshfs) — Монтирование удалённых файловых систем через SFTP.
 - [Tailscale](https://tailscale.com/) — VPN на базе WireGuard для создания защищённых сетей.
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) — Мониторинг трафика, CPU, GPU и RAM с историей использования.
+- ~~[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) — Мониторинг трафика, CPU, GPU и RAM с историей использования.~~
 
 ## Мониторинг и уведомления
 - [Beszel](https://github.com/henrygd/beszel) — Облегчённая платформа для мониторинга серверов.
