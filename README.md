@@ -27,6 +27,7 @@
 - ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода ограничений доступа к Docker Hub в регионах с блокировками.~~
 - ~~[Dtop](https://github.com/amir20/dtop) — Выводит исчерпывающую информацию обо всех контейнерах.~~
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
+- [Flint](https://github.com/ccheshirecat/flint) — Компактный инструмент управления KVM.
 - [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
 - ~~[Gokapi](https://github.com/Forceu/Gokapi) — Локальный файлообменный сервер с автоматическим удалением и поддержкой шифрования.~~
 - [Home Assistant](https://www.home-assistant.io/) — Платформа для умного дома с открытым кодом.
