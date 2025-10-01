@@ -67,6 +67,7 @@
 - [Deckhouse Prom++](https://github.com/deckhouse/prompp/)— Форк Prometheus с оптимизацией памяти.
 - [Grafana Tempo](https://grafana.com/oss/tempo/) — Система трассировки для микросервисов.
 - [ntfy.sh](https://ntfy.sh/) — Сервис для отправки push-уведомлений через HTTP-запросы.
+- [RustNet](https://github.com/domcyrus/rustnet) — Инструмент для мониторинга сетей.
 - [Script Exporter](https://github.com/ricoberger/script_exporter) — Prometheus экспортер, который выполняет скрипты и собирает метрики из выходных данных или статуса завершения.
 - [Telert](https://github.com/navig-me/telert) — Легковесная утилита для многоканальных уведомлений.
 - [Uptime-Kuma](https://github.com/louislam/uptime-kuma) — Система мониторинга сервисов в реальном времени без агентов.
@@ -181,6 +182,7 @@
 - [NanoCell](https://github.com/CedricBonjour/nanocell-csv) — Мощный редактор таблиц.
 - [nnn](https://github.com/jarun/nnn) — Лёгкий консольный файловый менеджер.
 - [Pulse](https://github.com/adamian98/pulse) — Повышение разрешения пиксельных изображений до FullHD.
+- [RapidRAW](https://github.com/CyberTimon/RapidRAW) — Современная высокопроизводительная альтернатива Adobe Lightroom.
 - [Rotato](https://tools.rotato.app/compress) — Сжатие видео на 90% с минимальной потерей качества.
 - [Shotcut](https://shotcut.org/) — Бесплатный видеоредактор с открытым кодом.
 - [Tablecruncher](https://github.com/Tablecruncher/tablecruncher) — Быстрый редактор CSV-файлов, созданный для удобной работы с большими файлами.
