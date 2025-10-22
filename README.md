@@ -45,6 +45,7 @@
 - [RustFS](https://github.com/rustfs/rustfs) — Высокопроизводительное распределённое объектное хранилище.
 - [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) — Почтовый сервер.
 - [Supercronic](https://github.com/aptible/supercronic) — Планировщик заданий для контейнеров.
+- [SSHM](https://github.com/Gu1llaum-3/sshm) — Современный CLI TUI менеджер SSH.
 - [Termux udocker](https://github.com/George-Seven/Termux-Udocker) — Образы Docker в Termux с помощью Udocker.
 - ~~[Хуёкер](https://huecker.io/) — Прокси-сервис для обеспечения доступа к Docker Hub в условиях ограничений.~~
 
