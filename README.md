@@ -100,6 +100,7 @@
 - [Xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) — Проверка `$HOME` на наличие нежелательных файлов и каталогов.
 
 ## Управление данными и знаниями
+- [Leantime](https://github.com/Leantime/leantime/) — Система управления проектами, ориентированная на пользователей без опыта в проектном менеджменте.
 - [Linkwarden](https://github.com/linkwarden/linkwarden) — Открытый менеджер закладок.
 - [Memos](https://github.com/usememos/memos) — Самостоятельное решение для ведения заметок.
 - [Obsidian](https://obsidian.md/) — Markdown-редактор с графом связей для заметок.
@@ -126,6 +127,7 @@
 - [OHA](https://github.com/hatoo/oha) — Программа, которая отправляет запрос в веб-приложение и отображает данные в реальном времени.
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) — Шлюз для MQTT.
 - [Pex](https://github.com/pex-tool/pex) — Упаковщик Python-проектов для офлайн-развёртывания.
+- [PikaPython](https://github.com/pikasTech/PikaPython) — Сверхлёгкий интерпретатор Python.
 - [Playwright](https://playwright.dev/) — Инструмент для автоматизации тестирования веб-приложений.  
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) — Инструмент для тестирования HTTP-запросов (HTTP/2, HTTP/3).
 - [PostgREST](https://github.com/PostgREST/postgrest) — Автоматический REST API из базы PostgreSQL.
@@ -142,6 +144,7 @@
 - [Windsurf](https://codeium.com/windsurf) — ИИ-помощник для программирования.
 
 ## Графика и интерфейсы
+- [Brrtfetch](https://github.com/ferrebarrat/brrtfetch) — Инструмент для отображения системной информации.
 - [Carbon](https://carbon.now.sh/) — Генератор красивых изображений кода.
 - [Catppuccin](https://catppuccin.com/) — Пастельная тема для интерфейсов и приложений.
 - ~~[DesktopOK](https://www.softportal.com/software-21897-desktopok.html) — Сохранение и восстановление расположения значков на рабочем столе.~~
@@ -241,6 +244,7 @@
 - [Timr-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
 - [Ventoy](https://www.ventoy.net/) — Создание мультизагрузочных USB-накопителей.
 - [Vibed Linux Rust Bitchat Client](https://github.com/spr-networks/bitchat-plugin) — Клиент Bitchat для Linux (Rust-плагин).
+- [VokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) — Утилита для записи экрана.
 - [X-Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) — Настройка кнопок мыши для разных приложений.
 
 ## Веб и загрузка контента
