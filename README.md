@@ -21,6 +21,7 @@
 - [Black Candy](https://github.com/blackcandy-org/blackcandy) — Сервер потоковой передачи музыки, персональный музыкальный центр.
 - [CloudReve](https://github.com/cloudreve/Cloudreve) — Система управления файлами.
 - [Copyparty](https://github.com/9001/copyparty) — Превращает практически любые устройства в файловые серверы.
+- [ctop](https://github.com/bcicen/ctop/) - TUI менеджер контейнеров Docker.
 - [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) — Телеграм-бот для интеграции с ChatGPT, обеспечивающий удобное взаимодействие с ИИ через мессенджер.
 - [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Эмулятор Android, функционирующий в Docker.
 - ~~[Docker-1C-Server](https://github.com/alexanderfefelov/docker-1c-server) — Готовый контейнер Docker с сервером 1С.~~
@@ -70,6 +71,7 @@
 - [ntfy.sh](https://ntfy.sh/) — Сервис для отправки push-уведомлений через HTTP-запросы.
 - [RustNet](https://github.com/domcyrus/rustnet) — Инструмент для мониторинга сетей.
 - [Script Exporter](https://github.com/ricoberger/script_exporter) — Prometheus экспортер, который выполняет скрипты и собирает метрики из выходных данных или статуса завершения.
+- [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker) — Мониторинг производительности и безотказной работы ISP.
 - [Telert](https://github.com/navig-me/telert) — Легковесная утилита для многоканальных уведомлений.
 - [Uptime-Kuma](https://github.com/louislam/uptime-kuma) — Система мониторинга сервисов в реальном времени без агентов.
 - [Zabbix](https://www.zabbix.com/) — Мониторинг серверов, сетей и приложений.
@@ -166,6 +168,7 @@
 - [Lan Mouse](https://github.com/feschber/lan-mouse) — Управление мышью и клавиатурой через сеть.
 - [LocalSend](https://github.com/localsend/localsend) — Передача файлов между устройствами в локальной сети.
 - [Parsec](https://parsec.app/) — Удалённый доступ к локальным играм с низкой задержкой.
+- [Share](https://github.com/schollz/share) — Минималистичный инструмент для передачи данных.
 - [Syncthing](https://syncthing.net/) — Децентрализованная синхронизация файлов между устройствами.
 - [Zrok](https://zrok.io/) — P2P-туннелирование и обмен данными.
 
@@ -228,16 +231,19 @@
 - [Discordo](https://github.com/ayn2op/discordo) — Легковесный и безопасный клиент Discord для терминала.
 - [Drinfo](https://github.com/Lennart1978/drinfo) — Инструмент CLI для получения информации о физических и сетевых дисках Linux.
 - [Exodus](https://github.com/intoli/exodus) — Инструмент для переноса бинарных файлов Linux между системами, которые не поддерживают необходимые для работы пакеты.
+- [Gonzo](https://github.com/control-theory/gonzo) — TUI для чтения журналов.
 - [howdy](https://github.com/boltgolt/howdy) — Аналог Windows Hello для Linux.
 - [Hellpaper](https://github.com/danihek/hellpaper) — Селектор обоев на Linux.
 - [His](https://github.com/terroo/his) — Утилита для просмотра истории команд с иконками и цветовыми обозначениями.
 - [Hyprpanel](https://hyprpanel.com/) — GUI для настройки Hyprland.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper) — Переназначение устройств ввода.
 - [KMP3](https://github.com/korei999/kmp3) — TUI медиаплеер.
+- [Lazyjournal]([url](https://github.com/Lifailon/lazyjournal) — TUI для чтения журналов.
 - [MyNav](https://github.com/GianlucaP106/mynav) — Менеджер рабочих пространств и TUI-навигатор сессий.
 - [Pake](https://github.com/tw93/Pake) — Преобразование веб-страниц в настольные приложения.
 - [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) — Набор утилит от Microsoft для улучшения Windows.
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
+- [Sampler](https://github.com/sqshq/sampler) — Мощный dashboard в терминале.
 - [SelenUI](https://github.com/eythaann/Seelen-UI) — Кастомизация интерфейса Windows.
 - [StreamGrid]([url](https://github.com/LordKnish/StreamGrid)) — Решение для мульти-просмотра потоковых видео в виде сетки. 
 - [SunnyCapturer]([url](https://github.com/XMuli/SunnyCapturer)) — Кросс-платформенное ПО для создания скриншотов (может извлекать текст).
@@ -256,6 +262,7 @@
 - [qBitTorrent](https://www.qbittorrent.org/download) — Лёгкий торрент-клиент с открытым кодом.
 - [Rezi](https://rezi.one/) — Поисковик по проверенным торрентам.
 - [Save Image As PNG](https://chromewebstore.google.com/detail/nkokmeaibnajheohncaamjggkanfbphi) — Конвертация изображений в PNG прямо в браузере.
+- [Superseedr](https://github.com/Jagalite/superseedr) — TUI клиент BitTorrent.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Улучшенная версия youtube-dl для загрузки видео.
 - ~~[YouTube Redux](https://chromewebstore.google.com/detail/mdgdgieddpndgjlmeblhjgljejejkikf) — Расширение для возврата классического интерфейса YouTube.~~
 - [You-Get](https://github.com/soimort/you-get) — Утилита для загрузки видео, аудио и изображений с сайтов.
