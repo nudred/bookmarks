@@ -77,6 +77,7 @@
 - [Zabbix](https://www.zabbix.com/) — Мониторинг серверов, сетей и приложений.
 
 ## Безопасность и конфиденциальность
+- [AdNauseam](https://github.com/dhowe/AdNauseam) - Продвинутый блокировщик рекламы на базе uBlock Origin.
 - ~~[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai) — Хранение 2FA-кодов Google в браузере.~~
 - [Baïkal](https://sabre.io/baikal) — CardDAV+CalDAV сервер.
 - [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) — Инструмент для анализа и тестирования безопасности Bluetooth-устройств.
