@@ -241,6 +241,7 @@
 - [Lazyjournal]([url](https://github.com/Lifailon/lazyjournal) — TUI для чтения журналов.
 - [MyNav](https://github.com/GianlucaP106/mynav) — Менеджер рабочих пространств и TUI-навигатор сессий.
 - [Pake](https://github.com/tw93/Pake) — Преобразование веб-страниц в настольные приложения.
+- [peaclock](https://github.com/octobanana/peaclock) — Терминальные часы.
 - [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) — Набор утилит от Microsoft для улучшения Windows.
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
 - [Sampler](https://github.com/sqshq/sampler) — Мощный dashboard в терминале.
@@ -249,6 +250,7 @@
 - [SunnyCapturer]([url](https://github.com/XMuli/SunnyCapturer)) — Кросс-платформенное ПО для создания скриншотов (может извлекать текст).
 - [Terminal Background Creator](https://github.com/DaarcyDev/terminal-bg) — Терминал как прозрачный Live Wallpaper.
 - [Timr-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
+- [tufw](https://github.com/peltho/tufw) — TUI менеджер для UFW.
 - [Ventoy](https://www.ventoy.net/) — Создание мультизагрузочных USB-накопителей.
 - [Vibed Linux Rust Bitchat Client](https://github.com/spr-networks/bitchat-plugin) — Клиент Bitchat для Linux (Rust-плагин).
 - [VokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) — Утилита для записи экрана.
