@@ -229,6 +229,7 @@
 - [BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) — Мощный инструмент для массового удаления программ с очисткой остатков.
 - [BleachBit](https://www.bleachbit.org/) — Очистка системы от ненужных файлов и кэша.
 - [Bongo Cat Wayland Overlay](https://github.com/saatvik333/wayland-bongocat) — Котик играет на бонго в Wayland.
+- [Cronboard](https://github.com/antoniorodr/cronboard) — TUI менеджер планировщика cron.
 - [Discordo](https://github.com/ayn2op/discordo) — Легковесный и безопасный клиент Discord для терминала.
 - [Drinfo](https://github.com/Lennart1978/drinfo) — Инструмент CLI для получения информации о физических и сетевых дисках Linux.
 - [Exodus](https://github.com/intoli/exodus) — Инструмент для переноса бинарных файлов Linux между системами, которые не поддерживают необходимые для работы пакеты.
