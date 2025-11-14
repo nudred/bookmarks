@@ -240,7 +240,7 @@
 - [Hyprpanel](https://hyprpanel.com/) — GUI для настройки Hyprland.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper) — Переназначение устройств ввода.
 - [KMP3](https://github.com/korei999/kmp3) — TUI медиаплеер.
-- [Lazyjournal]([url](https://github.com/Lifailon/lazyjournal) — TUI для чтения журналов.
+- [Lazyjournal](https://github.com/Lifailon/lazyjournal) — TUI для чтения журналов.
 - [MyNav](https://github.com/GianlucaP106/mynav) — Менеджер рабочих пространств и TUI-навигатор сессий.
 - [Pake](https://github.com/tw93/Pake) — Преобразование веб-страниц в настольные приложения.
 - [peaclock](https://github.com/octobanana/peaclock) — Терминальные часы.
