@@ -28,6 +28,7 @@
 - ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода ограничений доступа к Docker Hub в регионах с блокировками.~~
 - ~~[Dtop](https://github.com/amir20/dtop) — Выводит исчерпывающую информацию обо всех контейнерах.~~
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
+- [Foxel](https://github.com/DrizzleTime/Foxel) — Частное облачное хранилище с широкими возможностями.
 - [Flint](https://github.com/ccheshirecat/flint) — Компактный инструмент управления KVM.
 - [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
 - ~~[Gokapi](https://github.com/Forceu/Gokapi) — Локальный файлообменный сервер с автоматическим удалением и поддержкой шифрования.~~
@@ -35,11 +36,13 @@
 - [InvenTree](https://github.com/inventree/InvenTree) — Система управления запасами.
 - [isd](https://github.com/isd-project/isd) — Утилита для удобного управления сервисами systemd.
 - [K3s](https://github.com/k3s-io/k3s) — Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
-- [Lazyssh](https://github.com/adembc/lazyssh) — Интерактивный менеджер SSH. 
+- [Lazyssh](https://github.com/adembc/lazyssh) — Интерактивный менеджер SSH.
+- [Lodestone](https://github.com/Lodestone-Team/lodestone) - Инструмент для быстрого и безопасного создания игровых серверов.
 - [MediaMTX](https://github.com/bluenviron/mediamtx) — Готовый медиасервер и медиапрокси.
 - [MicroBin](https://github.com/szabodanika/microbin) — Самостоятельный pastebin-сервер с минималистичным интерфейсом.
 - [Minecraft Server on Docker](https://docker-minecraft-server.readthedocs.io/en/latest/) — Контейнеризированный сервер Minecraft.
 - [Nimbus](https://github.com/nimbusdotstorage/Nimbus) — Альтернатива Google Drive.
+- [Nginx ignition](https://github.com/lucasdillmann/nginx-ignition) — Пользовательский интерфейс для веб-сервера nginx.
 - [PasteBurn](https://github.com/pasteburn/pasteburn) — Зашифрованный аналог PasteBin для безопасного обмена данными.
 - [Podman](https://github.com/containers/podman) — Альтернатива Docker с поддержкой rootless-контейнеров.
 - [Portainer](https://github.com/portainer/portainer) — Удобный веб-интерфейс для управления контейнерами Docker.
@@ -48,6 +51,7 @@
 - [Supercronic](https://github.com/aptible/supercronic) — Планировщик заданий для контейнеров.
 - [SSHM](https://github.com/Gu1llaum-3/sshm) — Современный CLI TUI менеджер SSH.
 - [Termux udocker](https://github.com/George-Seven/Termux-Udocker) — Образы Docker в Termux с помощью Udocker.
+- [XPipe](https://github.com/xpipe-io/xpipe) — Новый тип концентратора подключений к оболочке и удалённого файлового менеджера.
 - ~~[Хуёкер](https://huecker.io/) — Прокси-сервис для обеспечения доступа к Docker Hub в условиях ограничений.~~
 
 ## Сети, туннелирование и трафик
@@ -74,15 +78,19 @@
 - [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker) — Мониторинг производительности и безотказной работы ISP.
 - [Telert](https://github.com/navig-me/telert) — Легковесная утилита для многоканальных уведомлений.
 - [Uptime-Kuma](https://github.com/louislam/uptime-kuma) — Система мониторинга сервисов в реальном времени без агентов.
+- [Whitebox](https://github.com/quyxishi/whitebox) — Prometheus экспортер, который выполняет мониторинг доступности VLESS, VMESS и подобных.
 - [Zabbix](https://www.zabbix.com/) — Мониторинг серверов, сетей и приложений.
 
 ## Безопасность и конфиденциальность
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - Продвинутый блокировщик рекламы на базе uBlock Origin.
 - ~~[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai) — Хранение 2FA-кодов Google в браузере.~~
 - [Baïkal](https://sabre.io/baikal) — CardDAV+CalDAV сервер.
+- [Backrest](https://github.com/garethgeorge/backrest) — Решение для резервного копирования, созданное на основе restic. 
 - [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) — Инструмент для анализа и тестирования безопасности Bluetooth-устройств.
+- [BloodCat](https://github.com/MartinxMax/BloodCat) — Инструмент для сбора информации о публично доступных сетевых камерах.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) — Коллаборативный файрвол для защиты от атак.
 - [Clip Vault](https://github.com/densumesh/clip-vault) — Безопасный буфер обмена.
+- [Digler](https://github.com/ostafen/digler) — Инструмент для глубокого восстановления файлов.
 - [Eraser](https://eraser.heidi.ie/download/) — Утилита для безвозвратного удаления файлов.
 - [Fort](https://github.com/tnodir/fort) — Простой файрвол для Windows 7 и выше.
 - [HellPot](https://github.com/yunginnanet/HellPot) — HTTP-приманка для ботов с бесконечным циклом ответа.
@@ -96,6 +104,7 @@
 - [Portmaster](https://github.com/safing/portmaster) — Брандмауэр приложений.
 - [privacy-settings](https://github.com/StellarSand/privacy-settings) — Руководство по настройке безопасности и конфиденциальности.
 - [Raspirus](https://github.com/Raspirus/Raspirus) — Лёгкий сканер вредоносного ПО на основе правил.
+- [ShadeOfColor](https://github.com/archistico/ShadeOfColor2) — Инструмент для скрытия файлов внутри изображений в формате PNG.
 - ~~[TextBee](https://github.com/vernu/textbee) — SMS-шлюз с открытым исходным кодом.~~
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) — Поиск секретов в коде и репозиториях.
 - [VaultWarden](https://github.com/dani-garcia/vaultwarden) — Локальный менеджер паролей с открытым кодом.
@@ -109,6 +118,7 @@
 - [Memos](https://github.com/usememos/memos) — Самостоятельное решение для ведения заметок.
 - [Obsidian](https://obsidian.md/) — Markdown-редактор с графом связей для заметок.
 - [PrivateGPT](https://github.com/zylon-ai/private-gpt) — Локальная нейросеть для анализа документов с сохранением конфиденциальности.
+- [Telegram Sync for Obsidian](https://github.com/soberhacker/obsidian-telegram-sync) — Переносите сообщения и файлы из Telegram в своё хранилище Obsidian.
 - [Trilium Notes](https://github.com/zadam/trilium) — Иерархическая система заметок с открытым кодом.
 - [SiYuan](https://github.com/siyuan-note/siyuan) — Система управления знаниями с Markdown и акцентом на приватность.
 
@@ -210,8 +220,11 @@
 - [frigate](https://github.com/blakeblackshear/frigate) — NVR с поддержкой ИИ для видеонаблюдения.
 - [Hugging Face Transformers](https://github.com/huggingface/transformers) — Библиотека для работы с моделями ИИ.
 - [InfiniteYou-FLUX](https://huggingface.co/spaces/ByteDance/InfiniteYou-FLUX) — Дипфейки без ограничений.
+- [noScribe](https://github.com/kaixxx/noScribe) — Инструмент для автоматической расшифровки аудио.
 - [Piper](https://github.com/rhasspy/piper) — Локальная система текст-в-речь для Raspberry Pi.
+- [PersonaLive](https://github.com/GVCLab/PersonaLive) — Инструмент для анимации портретных изображений в реальном времени.
 - [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) — Библиотека для преобразования речи в текст с минимальной задержкой.
+- [RetinaFace](https://github.com/serengil/retinaface) — Передовой детектор лиц.
 - [smolagents](https://huggingface.co/blog/smolagents) — Библиотека для создания компактных ИИ-агентов.
 - [VALL-EX](https://github.com/Plachtaa/VALL-E-X) — Копирование голоса с помощью нейросетей.
 
@@ -237,14 +250,17 @@
 - [howdy](https://github.com/boltgolt/howdy) — Аналог Windows Hello для Linux.
 - [Hellpaper](https://github.com/danihek/hellpaper) — Селектор обоев на Linux.
 - [His](https://github.com/terroo/his) — Утилита для просмотра истории команд с иконками и цветовыми обозначениями.
+- [HWiNFO](https://www.hwinfo.com/) — Полный контроль состояния ПК.
 - [Hyprpanel](https://hyprpanel.com/) — GUI для настройки Hyprland.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper) — Переназначение устройств ввода.
 - [KMP3](https://github.com/korei999/kmp3) — TUI медиаплеер.
+- [keymapper](https://github.com/houmain/keymapper/) — инструмент для переопределения раскладок клавиатуры и горячих клавиш.
 - [Lazyjournal](https://github.com/Lifailon/lazyjournal) — TUI для чтения журналов.
 - [MyNav](https://github.com/GianlucaP106/mynav) — Менеджер рабочих пространств и TUI-навигатор сессий.
 - [Pake](https://github.com/tw93/Pake) — Преобразование веб-страниц в настольные приложения.
 - [peaclock](https://github.com/octobanana/peaclock) — Терминальные часы.
 - [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) — Набор утилит от Microsoft для улучшения Windows.
+- [Popsicle](https://github.com/pop-os/popsicle) — Утилита позволяющая параллельно прошивать несколько USB-устройств.
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
 - [Sampler](https://github.com/sqshq/sampler) — Мощный dashboard в терминале.
 - [SelenUI](https://github.com/eythaann/Seelen-UI) — Кастомизация интерфейса Windows.
@@ -253,6 +269,7 @@
 - [Terminal Background Creator](https://github.com/DaarcyDev/terminal-bg) — Терминал как прозрачный Live Wallpaper.
 - [Timr-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
 - [tufw](https://github.com/peltho/tufw) — TUI менеджер для UFW.
+- [vex-tui ](https://github.com/CodeOne45/vex-tui/) — Терминальный просмотрщик для таблиц Excel и CSV.
 - [Ventoy](https://www.ventoy.net/) — Создание мультизагрузочных USB-накопителей.
 - [Vibed Linux Rust Bitchat Client](https://github.com/spr-networks/bitchat-plugin) — Клиент Bitchat для Linux (Rust-плагин).
 - [VokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) — Утилита для записи экрана.
