@@ -28,6 +28,7 @@
 - ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) — Bash-скрипт для обхода ограничений доступа к Docker Hub в регионах с блокировками.~~
 - ~~[Dtop](https://github.com/amir20/dtop) — Выводит исчерпывающую информацию обо всех контейнерах.~~
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
+- [Filebrowser Quantum](https://github.com/gtsteffaniak/filebrowser) — Веб-интерфейс для управления файлами на сервере.
 - [Foxel](https://github.com/DrizzleTime/Foxel) — Частное облачное хранилище с широкими возможностями.
 - [Flint](https://github.com/ccheshirecat/flint) — Компактный инструмент управления KVM.
 - [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
