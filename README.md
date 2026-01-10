@@ -185,6 +185,7 @@
 
 ## Работа с файлами и медиа
 - [BTFS](https://github.com/johang/btfs) — Монтирование торрентов как файловой системы.
+- [datatui](https://github.com/forensicmatt/datatui) - Просмотр в терминале CSV, JSON, Excel, SQLite и Parquet.
 - [DDColor](https://github.com/piddnad/DDColor) — Раскраска чёрно-белых изображений с фотореализмом.
 - [DeepSound](https://github.com/oneplus-x/DeepSound-2.0) — Скрытие данных в аудиофайлах (стеганография).
 - [Everything](https://www.voidtools.com/ru-ru/) — Быстрый поиск файлов на ПК.
@@ -305,6 +306,7 @@
 - [Rallyup](https://github.com/darwindarak/rallyup) — Планировщик Wake-On-LAN и управление зависимостями для малых сетей.
 - [Revanced Extended](https://github.com/NoName-exe/revanced-extended/releases) — Модифицированная версия YouTube с доп. функциями.
 - [Ritmoteka](https://ritmoteka.ru/) — Поиск музыки по ритму через настукивание.
+- [uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Фильтр uBlock Origin для удаления контента, сгенерированного ИИ, спам-ботов и т.д.
 - [UUP](https://uup.rg-adguard.net/) — Загрузка официальных ISO-образов Windows.
 - [WebBrowserTools](https://webbrowsertools.com/) — Набор утилит для работы в браузере.
 - [WebSSH](https://github.com/huashengdun/webssh) — Веб-приложение клиент SSH.
