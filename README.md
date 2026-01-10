@@ -266,8 +266,8 @@
 - [RivaTuner](https://www.rivatuner.org/) — Ограничение FPS и управление вертикальной синхронизацией.
 - [Sampler](https://github.com/sqshq/sampler) — Мощный dashboard в терминале.
 - [SelenUI](https://github.com/eythaann/Seelen-UI) — Кастомизация интерфейса Windows.
-- [StreamGrid]([url](https://github.com/LordKnish/StreamGrid)) — Решение для мульти-просмотра потоковых видео в виде сетки. 
-- [SunnyCapturer]([url](https://github.com/XMuli/SunnyCapturer)) — Кросс-платформенное ПО для создания скриншотов (может извлекать текст).
+- [StreamGrid](https://github.com/LordKnish/StreamGrid) — Решение для мульти-просмотра потоковых видео в виде сетки. 
+- [SunnyCapturer](https://github.com/XMuli/SunnyCapturer) — Кросс-платформенное ПО для создания скриншотов (может извлекать текст).
 - [Terminal Background Creator](https://github.com/DaarcyDev/terminal-bg) — Терминал как прозрачный Live Wallpaper.
 - [Timr-Tui](https://github.com/sectore/timr-tui) — Управление временем в стиле Pomodoro.
 - [tufw](https://github.com/peltho/tufw) — TUI менеджер для UFW.
