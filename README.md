@@ -30,7 +30,7 @@
 - [Filebrowser](https://github.com/filebrowser/filebrowser) — Веб-интерфейс для управления файлами на сервере.
 - [Filebrowser Quantum](https://github.com/gtsteffaniak/filebrowser) — Веб-интерфейс для управления файлами на сервере.
 - [Foxel](https://github.com/DrizzleTime/Foxel) — Частное облачное хранилище с широкими возможностями.
-- [Flint](https://github.com/ccheshirecat/flint) — Компактный инструмент управления KVM.
+- ~~[Flint](https://github.com/ccheshirecat/flint) — Компактный инструмент управления KVM.~~
 - [GGH](https://github.com/byawitz/ggh) — Легковесная обёртка для управления SSH-сессиями.
 - ~~[Gokapi](https://github.com/Forceu/Gokapi) — Локальный файлообменный сервер с автоматическим удалением и поддержкой шифрования.~~
 - [Home Assistant](https://www.home-assistant.io/) — Платформа для умного дома с открытым кодом.
