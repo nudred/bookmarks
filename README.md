@@ -63,6 +63,7 @@
 - [Godoxy](https://github.com/yusing/godoxy) - Лёгкий, простой и производительный обратный прокси-сервер с веб-интерфейсом.
 - [Go2rtc](https://github.com/AlexxIT/go2rtc/) - Приложение для потоковой передачи с камеры.
 - [IPSpot](https://github.com/openscilab/ipspot) - Библиотека Python для получения IP-адреса и геолокации.
+- [LazyPorts](https://github.com/v9mirza/LazyPorts) - TUI альтернатива netstat.
 - [Pangolin](https://github.com/fosrl/pangolin) - Обратный прокси-сервер с идентификацией и контролем доступа.
 - [Somo](https://github.com/theopfr/somo) - Удобная альтернатива netstat.
 - [SSHFS](https://github.com/libfuse/sshfs) - Монтирование удалённых файловых систем через SFTP.
