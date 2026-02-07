@@ -85,6 +85,7 @@
 - [Zabbix](https://www.zabbix.com/) - Мониторинг серверов, сетей и приложений.
 
 ## Безопасность и конфиденциальность
+- [3x-ui](https://github.com/MHSanaei/3x-ui) - Сервер для обхода интернет-цензуры.
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - Продвинутый блокировщик рекламы на базе uBlock Origin.
 - ~~[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai) - Хранение 2FA-кодов Google в браузере.~~
 - [Baïkal](https://sabre.io/baikal) - CardDAV+CalDAV сервер.
@@ -117,6 +118,7 @@
 - [Warpgate](https://github.com/warp-tech/warpgate) - Интеллектуальный и полностью прозрачный бастионный сервер.
 - ~~[Wifiphisher](https://github.com/wifiphisher/wifiphisher) - Инструмент для тестирования безопасности Wi-Fi сетей с анализом уязвимостей.~~
 - [Xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Проверка `$HOME` на наличие нежелательных файлов и каталогов.
+- [X-UI-PRO](https://github.com/GFW4Fun/x-ui-pro) - Сервер для обхода интернет-цензуры.
 - ~~[Zydra](https://github.com/hamedA2/Zydra) - Утилита для тестирования стойкости паролей защищённых файлов в контролируемых условиях.~~
 
 ## Управление данными и знаниями
