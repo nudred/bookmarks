@@ -36,6 +36,7 @@
 - [Home Assistant](https://www.home-assistant.io/) - Платформа для умного дома с открытым кодом.
 - [InvenTree](https://github.com/inventree/InvenTree) - Система управления запасами.
 - [isd](https://github.com/isd-project/isd) - Утилита для удобного управления сервисами systemd.
+- [Immich](https://github.com/immich-app/immich) — self-hosted решение для резервного копирования фото и видео, не уступающее Google Photos. 
 - [K3s](https://github.com/k3s-io/k3s) - Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
 - [Lazyssh](https://github.com/adembc/lazyssh) - Интерактивный менеджер SSH.
 - [Lodestone](https://github.com/Lodestone-Team/lodestone) - Инструмент для быстрого и безопасного создания игровых серверов.
@@ -49,6 +50,7 @@
 - [Portainer](https://github.com/portainer/portainer) - Удобный веб-интерфейс для управления контейнерами Docker.
 - [RustFS](https://github.com/rustfs/rustfs) - Высокопроизводительное распределённое объектное хранилище.
 - [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) - Почтовый сервер.
+- [server](https://github.com/Sync-in/server) - Платформа для обмена файлами.
 - [Supercronic](https://github.com/aptible/supercronic) - Планировщик заданий для контейнеров.
 - [SSHM](https://github.com/Gu1llaum-3/sshm) - Современный CLI TUI менеджер SSH.
 - [Termux udocker](https://github.com/George-Seven/Termux-Udocker) - Образы Docker в Termux с помощью Udocker.
@@ -130,6 +132,7 @@
 - [Telegram Sync for Obsidian](https://github.com/soberhacker/obsidian-telegram-sync) - Переносите сообщения и файлы из Telegram в своё хранилище Obsidian.
 - [Trilium Notes](https://github.com/zadam/trilium) - Иерархическая система заметок с открытым кодом.
 - [SiYuan](https://github.com/siyuan-note/siyuan) - Система управления знаниями с Markdown и акцентом на приватность.
+- [Wallabag](https://github.com/wallabag/wallabag) - Веб-приложение, которое позволяет сохранять веб-страницы для последующего чтения.
 
 ## Разработка и тестирование
 - [AirRemote](https://github.com/jugeekuz/AirRemote-Frontend) - Модернизация устаревших устройств с дистанционным управлением в IoT.
@@ -163,6 +166,7 @@
 - [Robyn](https://github.com/sparckles/Robyn) - Асинхронный веб-фреймворк на Python и Rust.
 - [Ruff](https://github.com/astral-sh/ruff) - Быстрый линтер и форматировщик Python-кода на Rust.
 - [RustScan](https://github.com/rustscan/rustscan) - Современный сканер портов.
+- [Scrapy](https://github.com/scrapy/scrapy) - это фреймворк для веб-скрейпинга, предназначенный для извлечения структурированных данных с веб-сайтов.
 - [sqlit](https://github.com/Maxteabag/sqlit) - TUI для работы с различными SQL-базами данных.
 - [Walrus](https://github.com/coleifer/walrus) - Упрощает работу с Redis на Python.
 - [Windsurf](https://codeium.com/windsurf) - ИИ-помощник для программирования.
