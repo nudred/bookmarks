@@ -1,5 +1,38 @@
 # Закладки
 
+## То, чем я действительно пользуюсь
+
+- [ctop](https://github.com/bcicen/ctop/) - TUI менеджер контейнеров Docker.
+- [Filebrowser](https://github.com/filebrowser/filebrowser) - Веб-интерфейс для управления файлами на сервере.
+- [Immich](https://github.com/immich-app/immich) — self-hosted решение для резервного копирования фото и видео, не уступающее Google Photos. 
+- [Lazyssh](https://github.com/adembc/lazyssh) - Интерактивный менеджер SSH.
+- [Portainer](https://github.com/portainer/portainer) - Удобный веб-интерфейс для управления контейнерами Docker.
+- [Doggo](https://github.com/mr-karan/doggo) - Современный DNS-клиент командной строки (как dig).
+- [frp](https://github.com/fatedier/frp) - Инструмент туннелирования, аналог Ngrok, для проброса локальных сервисов.
+- [Somo](https://github.com/theopfr/somo) - Удобная альтернатива netstat.
+- [ntfy.sh](https://ntfy.sh/) - Сервис для отправки push-уведомлений через HTTP-запросы.
+- [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - Система мониторинга сервисов в реальном времени без агентов.
+- [Baïkal](https://sabre.io/baikal) - CardDAV+CalDAV сервер.
+- [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Локальный менеджер паролей с открытым кодом.
+- [Warpgate](https://github.com/warp-tech/warpgate) - Интеллектуальный и полностью прозрачный бастионный сервер.
+- [Obsidian](https://obsidian.md/) - Markdown-редактор с графом связей для заметок.
+- [NiceGUI](https://nicegui.io/) - Фреймворк для создания веб-интерфейсов на Python.
+- [Catppuccin](https://catppuccin.com/) - Пастельная тема для интерфейсов и приложений.
+- [LocalSend](https://github.com/localsend/localsend) - Передача файлов между устройствами в локальной сети.
+- [Syncthing](https://syncthing.net/) - Децентрализованная синхронизация файлов между устройствами.
+- [Yazi](https://github.com/sxyazi/yazi) - Терминальный файловый менеджер на Rust.
+- [BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Мощный инструмент для массового удаления программ с очисткой остатков.
+- [howdy](https://github.com/boltgolt/howdy) - Аналог Windows Hello для Linux.
+- [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) - Набор утилит от Microsoft для улучшения Windows.
+- [Ventoy](https://www.ventoy.net/) - Создание мультизагрузочных USB-накопителей.
+- [qBitTorrent](https://www.qbittorrent.org/download) - Лёгкий торрент-клиент с открытым кодом.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Улучшенная версия youtube-dl для загрузки видео.
+- [BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) - Расширение для фильтрации SEO-спама и ИИ-контента ([блэклист](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt)).
+
+
+
+
+
 ## Оглавление
 - [Управление контейнерами и серверами](#управление-контейнерами-и-серверами)
 - [Сети, туннелирование и трафик](#сети-туннелирование-и-трафик)
@@ -21,13 +54,11 @@
 - [Black Candy](https://github.com/blackcandy-org/blackcandy) - Сервер потоковой передачи музыки, персональный музыкальный центр.
 - [CloudReve](https://github.com/cloudreve/Cloudreve) - Система управления файлами.
 - [Copyparty](https://github.com/9001/copyparty) - Превращает практически любые устройства в файловые серверы.
-- [ctop](https://github.com/bcicen/ctop/) - TUI менеджер контейнеров Docker.
 - [ChatGPT Telegram Bot](https://github.com/n3d1117/chatgpt-telegram-bot) - Телеграм-бот для интеграции с ChatGPT, обеспечивающий удобное взаимодействие с ИИ через мессенджер.
 - [Dockerify Android](https://github.com/Shmayro/dockerify-android) - Эмулятор Android, функционирующий в Docker.
 - ~~[Docker-1C-Server](https://github.com/alexanderfefelov/docker-1c-server) - Готовый контейнер Docker с сервером 1С.~~
 - ~~[Docker-Unlock](https://github.com/StasPlov/docker-unlock) - Bash-скрипт для обхода ограничений доступа к Docker Hub в регионах с блокировками.~~
 - ~~[Dtop](https://github.com/amir20/dtop) - Выводит исчерпывающую информацию обо всех контейнерах.~~
-- [Filebrowser](https://github.com/filebrowser/filebrowser) - Веб-интерфейс для управления файлами на сервере.
 - [Filebrowser Quantum](https://github.com/gtsteffaniak/filebrowser) - Веб-интерфейс для управления файлами на сервере.
 - [Foxel](https://github.com/DrizzleTime/Foxel) - Частное облачное хранилище с широкими возможностями.
 - ~~[Flint](https://github.com/ccheshirecat/flint) - Компактный инструмент управления KVM.~~
@@ -36,9 +67,7 @@
 - [Home Assistant](https://www.home-assistant.io/) - Платформа для умного дома с открытым кодом.
 - [InvenTree](https://github.com/inventree/InvenTree) - Система управления запасами.
 - [isd](https://github.com/isd-project/isd) - Утилита для удобного управления сервисами systemd.
-- [Immich](https://github.com/immich-app/immich) — self-hosted решение для резервного копирования фото и видео, не уступающее Google Photos. 
 - [K3s](https://github.com/k3s-io/k3s) - Лёгкий Kubernetes-дистрибутив для малых кластеров и IoT.
-- [Lazyssh](https://github.com/adembc/lazyssh) - Интерактивный менеджер SSH.
 - [Lodestone](https://github.com/Lodestone-Team/lodestone) - Инструмент для быстрого и безопасного создания игровых серверов.
 - [MediaMTX](https://github.com/bluenviron/mediamtx) - Готовый медиасервер и медиапрокси.
 - [MicroBin](https://github.com/szabodanika/microbin) - Самостоятельный pastebin-сервер с минималистичным интерфейсом.
@@ -47,7 +76,6 @@
 - [Nginx ignition](https://github.com/lucasdillmann/nginx-ignition) - Пользовательский интерфейс для веб-сервера nginx.
 - [PasteBurn](https://github.com/pasteburn/pasteburn) - Зашифрованный аналог PasteBin для безопасного обмена данными.
 - [Podman](https://github.com/containers/podman) - Альтернатива Docker с поддержкой rootless-контейнеров.
-- [Portainer](https://github.com/portainer/portainer) - Удобный веб-интерфейс для управления контейнерами Docker.
 - [RustFS](https://github.com/rustfs/rustfs) - Высокопроизводительное распределённое объектное хранилище.
 - [Stalwart Mail Server](https://github.com/stalwartlabs/mail-server) - Почтовый сервер.
 - [server](https://github.com/Sync-in/server) - Платформа для обмена файлами.
@@ -60,14 +88,11 @@
 ## Сети, туннелирование и трафик
 - [Bore](https://github.com/ekzhang/bore) - TCP-туннель на Rust для обхода NAT и доступа к локальным портам.
 - [Cloudflared](https://github.com/cloudflare/cloudflared) - Клиент для туннелирования через Cloudflare Tunnel.
-- [Doggo](https://github.com/mr-karan/doggo) - Современный DNS-клиент командной строки (как dig).
-- [frp](https://github.com/fatedier/frp) - Инструмент туннелирования, аналог Ngrok, для проброса локальных сервисов.
 - [Godoxy](https://github.com/yusing/godoxy) - Лёгкий, простой и производительный обратный прокси-сервер с веб-интерфейсом.
 - [Go2rtc](https://github.com/AlexxIT/go2rtc/) - Приложение для потоковой передачи с камеры.
 - [IPSpot](https://github.com/openscilab/ipspot) - Библиотека Python для получения IP-адреса и геолокации.
 - [LazyPorts](https://github.com/v9mirza/LazyPorts) - TUI альтернатива netstat.
 - [Pangolin](https://github.com/fosrl/pangolin) - Обратный прокси-сервер с идентификацией и контролем доступа.
-- [Somo](https://github.com/theopfr/somo) - Удобная альтернатива netstat.
 - [SSHFS](https://github.com/libfuse/sshfs) - Монтирование удалённых файловых систем через SFTP.
 - [Tailscale](https://tailscale.com/) - VPN на базе WireGuard для создания защищённых сетей.
 - ~~[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - Мониторинг трафика, CPU, GPU и RAM с историей использования.~~
@@ -77,12 +102,10 @@
 - [EaseProbe](https://github.com/megaease/easeprobe) - Лёгкий инструмент для проверки состояния микросервисов.
 - [Deckhouse Prom++](https://github.com/deckhouse/prompp/)- Форк Prometheus с оптимизацией памяти.
 - [Grafana Tempo](https://grafana.com/oss/tempo/) - Система трассировки для микросервисов.
-- [ntfy.sh](https://ntfy.sh/) - Сервис для отправки push-уведомлений через HTTP-запросы.
 - [RustNet](https://github.com/domcyrus/rustnet) - Инструмент для мониторинга сетей.
 - [Script Exporter](https://github.com/ricoberger/script_exporter) - Prometheus экспортер, который выполняет скрипты и собирает метрики из выходных данных или статуса завершения.
 - [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker) - Мониторинг производительности и безотказной работы ISP.
 - [Telert](https://github.com/navig-me/telert) - Легковесная утилита для многоканальных уведомлений.
-- [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - Система мониторинга сервисов в реальном времени без агентов.
 - [Whitebox](https://github.com/quyxishi/whitebox) - Prometheus экспортер, который выполняет мониторинг доступности VLESS, VMESS и подобных.
 - [Zabbix](https://www.zabbix.com/) - Мониторинг серверов, сетей и приложений.
 
@@ -90,7 +113,6 @@
 - [3x-ui](https://github.com/MHSanaei/3x-ui) - Сервер для обхода интернет-цензуры.
 - [AdNauseam](https://github.com/dhowe/AdNauseam) - Продвинутый блокировщик рекламы на базе uBlock Origin.
 - ~~[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai) - Хранение 2FA-кодов Google в браузере.~~
-- [Baïkal](https://sabre.io/baikal) - CardDAV+CalDAV сервер.
 - [Backrest](https://github.com/garethgeorge/backrest) - Решение для резервного копирования, созданное на основе restic. 
 - [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - Инструмент для анализа и тестирования безопасности Bluetooth-устройств.
 - [BloodCat](https://github.com/MartinxMax/BloodCat) - Инструмент для сбора информации о публично доступных сетевых камерах.
@@ -116,8 +138,6 @@
 - [Singularity](https://github.com/MatheuZSecurity/Singularity) - Скрытный rootkit для ядра Linux, для современных ядер версии 6.x.
 - ~~[TextBee](https://github.com/vernu/textbee) - SMS-шлюз с открытым исходным кодом.~~
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Поиск секретов в коде и репозиториях.
-- [VaultWarden](https://github.com/dani-garcia/vaultwarden) - Локальный менеджер паролей с открытым кодом.
-- [Warpgate](https://github.com/warp-tech/warpgate) - Интеллектуальный и полностью прозрачный бастионный сервер.
 - ~~[Wifiphisher](https://github.com/wifiphisher/wifiphisher) - Инструмент для тестирования безопасности Wi-Fi сетей с анализом уязвимостей.~~
 - [Xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Проверка `$HOME` на наличие нежелательных файлов и каталогов.
 - [X-UI-PRO](https://github.com/GFW4Fun/x-ui-pro) - Сервер для обхода интернет-цензуры.
@@ -127,7 +147,6 @@
 - [Leantime](https://github.com/Leantime/leantime/) - Система управления проектами, ориентированная на пользователей без опыта в проектном менеджменте.
 - [Linkwarden](https://github.com/linkwarden/linkwarden) - Открытый менеджер закладок.
 - [Memos](https://github.com/usememos/memos) - Самостоятельное решение для ведения заметок.
-- [Obsidian](https://obsidian.md/) - Markdown-редактор с графом связей для заметок.
 - [PrivateGPT](https://github.com/zylon-ai/private-gpt) - Локальная нейросеть для анализа документов с сохранением конфиденциальности.
 - [Telegram Sync for Obsidian](https://github.com/soberhacker/obsidian-telegram-sync) - Переносите сообщения и файлы из Telegram в своё хранилище Obsidian.
 - [Trilium Notes](https://github.com/zadam/trilium) - Иерархическая система заметок с открытым кодом.
@@ -149,7 +168,6 @@
 - [Hanko](https://github.com/teamhanko/hanko) - Решение для аутентификации и управления пользователями.
 - [Jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - Приложение для визуализации различных форматов данных (JSON, YAML, XML, CSV и другие) в интерактивные графики.
 - [Live Local Wi-Fi Sensing ](https://github.com/MaliosDark/wifi-3d-fusion)- Отслеживание движения и 3D-визуализация через Wi-Fi.
-- [NiceGUI](https://nicegui.io/) - Фреймворк для создания веб-интерфейсов на Python.
 - [OHA](https://github.com/hatoo/oha) - Программа, которая отправляет запрос в веб-приложение и отображает данные в реальном времени.
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - Шлюз для MQTT.
 - [Pex](https://github.com/pex-tool/pex) - Упаковщик Python-проектов для офлайн-развёртывания.
@@ -174,7 +192,6 @@
 ## Графика и интерфейсы
 - [Brrtfetch](https://github.com/ferrebarrat/brrtfetch) - Инструмент для отображения системной информации.
 - [Carbon](https://carbon.now.sh/) - Генератор красивых изображений кода.
-- [Catppuccin](https://catppuccin.com/) - Пастельная тема для интерфейсов и приложений.
 - ~~[DesktopOK](https://www.softportal.com/software-21897-desktopok.html) - Сохранение и восстановление расположения значков на рабочем столе.~~
 - [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Коллекция тем для кастомизации GRUB.
 - [Hugeicons](https://hugeicons.com/) - Библиотека из 4000+ SVG-иконок.
@@ -191,10 +208,8 @@
 - [Deskflow](https://github.com/deskflow/deskflow) - Единое управление несколькими ПК с одной мыши и клавиатуры.
 - [Enchat](https://github.com/sudodevdante/enchat) - Полностью конфиденциальные беседы без корпоративного надзора или сбора данных.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Управление мышью и клавиатурой через сеть.
-- [LocalSend](https://github.com/localsend/localsend) - Передача файлов между устройствами в локальной сети.
 - [Parsec](https://parsec.app/) - Удалённый доступ к локальным играм с низкой задержкой.
 - [Share](https://github.com/schollz/share) - Минималистичный инструмент для передачи данных.
-- [Syncthing](https://syncthing.net/) - Децентрализованная синхронизация файлов между устройствами.
 - [Zrok](https://zrok.io/) - P2P-туннелирование и обмен данными.
 
 ## Работа с файлами и медиа
@@ -223,7 +238,7 @@
 - [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui) - Удаление вокала из аудиофайлов.
 - [Vectorizer](https://vectorizer.ai/) - Преобразование растровых изображений в векторные.
 - [WatermarkRemover](https://www.watermarkremover.io/ru) - Удаление водяных знаков с изображений.
-- [Yazi](https://github.com/sxyazi/yazi) - Терминальный файловый менеджер на Rust.
+
 
 ## Искусственный интеллект и нейросети
 - [Bark.cpp](https://github.com/PABannier/bark.cpp) - Быстрый движок преобразования текста в речь.
@@ -254,7 +269,7 @@
 - [ReWASD](https://www.rewasd.com/) - Настройка геймпадов с эмуляцией и маппингом.
 
 ## Утилиты для системы и рабочего стола
-- [BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Мощный инструмент для массового удаления программ с очисткой остатков.
+
 - [BleachBit](https://www.bleachbit.org/) - Очистка системы от ненужных файлов и кэша.
 - [Bongo Cat Wayland Overlay](https://github.com/saatvik333/wayland-bongocat) - Котик играет на бонго в Wayland.
 - [Cronboard](https://github.com/antoniorodr/cronboard) - TUI менеджер планировщика cron.
@@ -262,7 +277,6 @@
 - [Drinfo](https://github.com/Lennart1978/drinfo) - Инструмент CLI для получения информации о физических и сетевых дисках Linux.
 - [Exodus](https://github.com/intoli/exodus) - Инструмент для переноса бинарных файлов Linux между системами, которые не поддерживают необходимые для работы пакеты.
 - [Gonzo](https://github.com/control-theory/gonzo) - TUI для чтения журналов.
-- [howdy](https://github.com/boltgolt/howdy) - Аналог Windows Hello для Linux.
 - [Hellpaper](https://github.com/danihek/hellpaper) - Селектор обоев на Linux.
 - [His](https://github.com/terroo/his) - Утилита для просмотра истории команд с иконками и цветовыми обозначениями.
 - [HWiNFO](https://www.hwinfo.com/) - Полный контроль состояния ПК.
@@ -274,7 +288,6 @@
 - [MyNav](https://github.com/GianlucaP106/mynav) - Менеджер рабочих пространств и TUI-навигатор сессий.
 - [Pake](https://github.com/tw93/Pake) - Преобразование веб-страниц в настольные приложения.
 - [peaclock](https://github.com/octobanana/peaclock) - Терминальные часы.
-- [PowerToys](https://remontka.pro/microsoft-powertoys-windows-10/) - Набор утилит от Microsoft для улучшения Windows.
 - [Popsicle](https://github.com/pop-os/popsicle) - Утилита позволяющая параллельно прошивать несколько USB-устройств.
 - [RivaTuner](https://www.rivatuner.org/) - Ограничение FPS и управление вертикальной синхронизацией.
 - [Sampler](https://github.com/sqshq/sampler) - Мощный dashboard в терминале.
@@ -285,7 +298,6 @@
 - [Timr-Tui](https://github.com/sectore/timr-tui) - Управление временем в стиле Pomodoro.
 - [tufw](https://github.com/peltho/tufw) - TUI менеджер для UFW.
 - [vex-tui ](https://github.com/CodeOne45/vex-tui/) - Терминальный просмотрщик для таблиц Excel и CSV.
-- [Ventoy](https://www.ventoy.net/) - Создание мультизагрузочных USB-накопителей.
 - [Vibed Linux Rust Bitchat Client](https://github.com/spr-networks/bitchat-plugin) - Клиент Bitchat для Linux (Rust-плагин).
 - [VokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - Утилита для записи экрана.
 - [X-Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) - Настройка кнопок мыши для разных приложений.
@@ -295,18 +307,15 @@
 - [Cobalt.Tools](https://cobalt.tools/) - Универсальный инструмент для скачивания видео.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Массовое скачивание изображений и видео с сайтов.
 - [FireShot](https://chromewebstore.google.com/detail/mcbpblocgmgfnpjjppndjkmgjaogfceg) - Сохранение веб-страниц в PDF, JPG или PNG.
-- [qBitTorrent](https://www.qbittorrent.org/download) - Лёгкий торрент-клиент с открытым кодом.
 - [Rezi](https://rezi.one/) - Поисковик по проверенным торрентам.
 - [Save Image As PNG](https://chromewebstore.google.com/detail/nkokmeaibnajheohncaamjggkanfbphi) - Конвертация изображений в PNG прямо в браузере.
 - [Superseedr](https://github.com/Jagalite/superseedr) - TUI клиент BitTorrent.
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Улучшенная версия youtube-dl для загрузки видео.
 - ~~[YouTube Redux](https://chromewebstore.google.com/detail/mdgdgieddpndgjlmeblhjgljejejkikf) - Расширение для возврата классического интерфейса YouTube.~~
 - [You-Get](https://github.com/soimort/you-get) - Утилита для загрузки видео, аудио и изображений с сайтов.
 
 ## Прочее
 - [awesome-console-services](https://github.com/chubin/awesome-console-services) - Подборка полезных консольных сервисов.
 - [awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Список бесплатных приложений для разных платформ.
-- [BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) - Расширение для фильтрации SEO-спама и ИИ-контента ([блэклист](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt)).
 - [Community-Managed Free Subdomain Registry](https://github.com/domainsproject/register ) - Регистрация бесплатных субдоменов.
 - [doomcaptcha](https://vivirenremoto.github.io/doomcaptcha/) - Интерактивная CAPTCHA в стиле Doom.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Виртуальная доска для создания диаграмм и набросков.
